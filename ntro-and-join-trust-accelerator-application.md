@@ -1,5 +1,10 @@
-# Blockchain Trust Accelerator Initiative Pilot Submission Form
+# Introduction and Blockchain Trust Accelerator Initiative Pilot Submission Form
 *Required
+
+This is an introduction to the project, and was submitted as a 
+Blockchain Trust Accelerator Initiative Pilot Submission on
+Feb 22 2019. Any modifications to this form, apart from this
+paragraph, will be made in a separate document.
 
 #### What is your name? *
 
