@@ -107,8 +107,7 @@ I don't have a lot of funds.
 I need funding, technology, expertise, and local councils to trial with.
 
 ## Working with the Trust Accelerator
-#### What is the most important thing that the Trust Accelerator can do to support
-your work? *
+#### What is the most important thing that the Trust Accelerator can do to support your work? *
 
 - [ ] Connect with governments
 - [ ] Connect with technology providers
