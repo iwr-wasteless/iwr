@@ -46,3 +46,6 @@ Quotes from [intro-v-2](https://github.com/jamesray1/iwr/edit/master/intro-v-2):
 > complexity, costs, and would still take longer than the traditional
 > collection procedure. Using a master RFID card with the truck would also
 > be a security concern.
+
+Due to these issues, I'm not sure if this is a solution that is worth
+pursuing further.
