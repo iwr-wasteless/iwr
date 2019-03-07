@@ -79,25 +79,34 @@ Free and Open Source Software (FOSS) has
 benefits including auditability and better ability to improve it or adapt it
 for other projects. 
 
-Please see
-https://twitter.com/JamesCRay01/status/936992945173020672 and
-https://github.com/jamesray1/iwr FMI.
-
 The project can be adapted for stationary public bins, etc., by having an
 interface that involves needing to pay to use the bin, but this would be more
 complex, and would need to be not much more inconvenient than putting waste in
 a bin. E.g. put it on a weight balance externally on the bin, tap a card to
-pay, put it in the bin. Even this would probably be intolerable, however.
+pay, put it in the bin. Even this would probably be too inconvenient, however.
+
 People who waste less, pay less, and people who waste more are incentivized to
 waste less, or the funds collected can be spent on better waste management
-technology.
+technology and outreach/education/raising of awareness.
 
 #### Who are the actors involved/who is impacted by this pilot? *
-Everyone that puts waste in bins and is involved with waste.
+Everyone that puts waste in bins and is involved with waste,
+or affected by it, which is really everyone and everything on this
+Earth.
 
 #### How many people would your solution be helping? *
 
-Everyone that puts waste in bins and is involved with waste.
+Again, all biota. This is due to the far-reaching impacts of e.g.
+reducing greenhouse gases such as methane, as well as reducing
+resource depletion (e.g. petrochemically-derived products and associated
+greenhouse gas emissions). While other effects can be more local,
+such as leaching of chemicals into the land, water, and air (
+note that of the air, this is
+particularly due to the incineration of plastics), they can still
+have far-reaching impacts. Also, once waste enters oceans (outside of
+EEZs), due to
+oceans being a public commons, management of such waste becomes
+a global problem.
 
 #### What steps have you taken to validate the idea/market? *
 
