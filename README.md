@@ -1,4 +1,4 @@
-# iwr
+# iwr / WasteLess
 Incentivizing waste reduction (IWR). 
 
 The following is modified from the 
