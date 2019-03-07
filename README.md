@@ -130,7 +130,7 @@ send an invoice. Bin users could have a blockchain account for debits, but
 this could be opt-in.
 
 People could dump waste into neighbours bins, or any bin other than their own,
-or anywhere else other than,
+or anywhere else other than
 their own bin. To prevent dumping into other bins, bins should have a lock
 on them. However, bins would then need to be unlocked when collecting.
 There might be ways to automate this, such as using RFID cards, but they add
@@ -144,10 +144,16 @@ in another device, or using the truck or device on it, but if the solution
 can be fast enough to not add any noticeable lag to collection times,
 then the overall technology seems to be worth sufficient merit to trial.
 
+An alternative is to use CCTVs, [neighbourhood watch](
+https://en.wikipedia.org/wiki/Neighborhood_watch), police, etc.,
+to monitor and report on suspicious activity with dumping in bins.
+Notably, these measures would be needed for dumping that is not in
+bins.
+
 #### To what extent does your idea have the potential to be scaled? *
 
 Theoretically it can scale worldwide, but obviously blockchains need to be
-much more scalable.
+much more scalable, although Holochain appears to be very scalable.
 
 ## Resources
 In this section, please elaborate on the state of your resources.
