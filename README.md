@@ -1,51 +1,174 @@
 # iwr
-Incentivizing waste reduction (IWR). Seed idea: https://twitter.com/JamesCRay01/status/936992945173020672.
-Quotes from [intro-v-2](https://github.com/jamesray1/iwr/edit/master/intro-v-2):
+Incentivizing waste reduction (IWR). 
 
-> Charge bin users or land owners for the amount of mass that they add to general waste bins.
+The following is modified from the 
+[Blockchain Trust Accelerator Initiative Pilot Submission](
+https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
+on
+Feb 22 2019. The seed idea was first expressed in:
+https://twitter.com/JamesCRay01/status/936992945173020672, however the below information
+should be more detailed.
 
-> If there are dedicated bins for recycling, garden waste, and food waste (which
-> there should be, and this program should ideally only be implemented with
-> these), then there is no charge for using these. Note that rewarding users for
-> these bins would incentivize excess consumption,
-> or collecting biomass from forest to put in their own green waste bin.
-> Have a weight machine built-in to garbage trucks, while others benefit from
-> the resources collected in them, so any cost to use these bins, if any,
-> should be discounted to account for such external benefits.
+## The Problem / Challenge:
 
-> The truck follows a route,
-> and so can log the address of the house for each new bin unloaded into the
-> truck, with the additional weight measured. Coordinates of the truck via
-> GPS and mobile data
-> and the timestamp at the time of loading a bin 
-> can also be
-> used as an extra verification. The accuracy of the weight machine
-> should probably be no more than 1 gram. Using Distributed Ledger Technology (DLT)
-> to store this data has
-> benefits including transparency, auditability, censorship-resistance, and
-> better scalability to different councils worldwide. Making the DLT 
-> Free and Open Source Software (FOSS) has
-> benefits including auditability and better ability to improve it or adapt it
-> for other projects. 
+In this section, please be prepared to explain what specific challenges you
+wish to address.
 
-> It is probably necessary to put locks on bins to prevent anybody from dumping
-> rubbish into it and thus incurring an extra cost to the resident.
-> An app for bin users would show the amounts debited with 
-> each collection and the mass measured of the collected waste,
-> as well as charts per month, year, and total.
-> Councils could still send an invoice as per usual.
-> Bin users could have a blockchain account for debits, but
-> this could be opt-in. The currency for the transactions
-> should probably be the local fiat currency, represented by
-> a synthetic digital token pegged to the said currency.
+#### What type of social or governance challenge are you addressing? *
+- [ ] Corruption
+- [ ] Economic Opportunity
+- [ ] Property Rights
+- [ ] Strengthening Civil Society
+- [ ] Supply Chain Tracking
+- [ ] Voting
+- [ ] Financial Transaction
+- [x] Other: Waste management and associated effects of waste, including
+methane emissions, resource depletion, toxicity impacts in land, water and air;
+and impacts on birds, aquatic life,
+and other biota.
 
-> People could dump waste into neighbours bins, or anywhere else other than
-> their own bin. To prevent dumping into other bins, bins should have a lock
-> on them. However, bins would then need to be unlocked when collecting.
-> There might be ways to automate this, such as using RFID cards, but add
-> complexity, costs, and would still take longer than the traditional
-> collection procedure. Using a master RFID card with the truck would also
-> be a security concern.
+#### Are there specific aspects of the problem that you want to see addressed? *
 
-Due to these issues, I'm not sure if this is a solution that is worth
-pursuing further.
+My idea involves addressing the problem of incentivizing waste reduction,
+i.e. addressing a lack of sufficient incentives for reducing waste.
+
+#### Is this problem currently being addressed? If so, in what ways and to what degree of success? *
+
+I don't think it is being addressed well because councils generally charge a
+flat rate for collection. Some councils provide options of different bin
+sizes, but still charge a flat rate per week in proportion to the bin's
+capacity.
+
+## The Solution and Technology
+
+In this section, please be prepared to explain your pilot proposal in depth.
+
+We will need to understand how your idea seeks to incorporate blockchain
+technology to solve the problem(s) you described above.
+
+#### Describe your solution. How can blockchain technology address the problem? *
+Charge bin users or land owners for the amount of mass that they add to general waste bins.
+
+If there are dedicated bins for recycling, garden waste, and food waste (which
+there should be, and this program should ideally only be implemented with
+these), then there is no charge for using these. Ideally, soft plastics that
+are recyclable in Redcycle bins would also be collected in kerbside bins,
+since this would result in more soft plastics being recycled, due to convenience.
+(I recycle soft plastics in Redcycle bins, but not everyone knows about them,
+or can't be bothered to use them.) Note that rewarding users for
+these bins would incentivize excess consumption,
+or collecting biomass from forest to put in their own green waste bin,
+both of which would be perverse behaviours and outcomes.
+
+Have a weight machine built-in to garbage trucks, while others benefit from
+the resources collected in them, so any cost to use these bins, if any,
+should be discounted to account for such external benefits.
+
+The truck follows a route,
+and so can log the address of the house for each new bin unloaded into the
+truck, with the additional weight measured. Coordinates of the truck via
+GPS and mobile data
+and the timestamp at the time of loading a bin 
+can also be
+used as an extra verification. The accuracy of the weight machine
+should probably be no more than 1 gram. Using Distributed Ledger Technology (DLT)
+to store this data has
+benefits including transparency, auditability, censorship-resistance, and
+better scalability to different councils worldwide. Making the DLT 
+Free and Open Source Software (FOSS) has
+benefits including auditability and better ability to improve it or adapt it
+for other projects. 
+
+Please see
+https://twitter.com/JamesCRay01/status/936992945173020672 and
+https://github.com/jamesray1/iwr FMI.
+
+The project can be adapted for stationary public bins, etc., by having an
+interface that involves needing to pay to use the bin, but this would be more
+complex, and would need to be not much more inconvenient than putting waste in
+a bin. E.g. put it on a weight balance externally on the bin, tap a card to
+pay, put it in the bin. Even this would probably be intolerable, however.
+People who waste less, pay less, and people who waste more are incentivized to
+waste less, or the funds collected can be spent on better waste management
+technology.
+
+#### Who are the actors involved/who is impacted by this pilot? *
+Everyone that puts waste in bins and is involved with waste.
+
+#### How many people would your solution be helping? *
+
+Everyone that puts waste in bins and is involved with waste.
+
+#### What steps have you taken to validate the idea/market? *
+
+Not much as of yet.
+
+#### How complex will the application need to be for successful functionality? *
+
+An app for bin users would show the amounts debited with 
+each collection and the mass measured of the collected waste,
+as well as charts per month, year, and total.
+Councils could still send an invoice as per usual.
+Bin users could have a blockchain account for debits, but
+this could be opt-in. The currency for the transactions
+should probably be the local fiat currency, represented by
+a synthetic digital token pegged to the said currency.
+
+#### What challenges do you anticipate encountering were this pilot to be implemented? How can they be mitigated? *
+
+I'm not sure if there needs to be an app for end-users. Councils could still
+send an invoice. Bin users could have a blockchain account for debits, but
+this could be opt-in.
+
+People could dump waste into neighbours bins, or any bin other than their own,
+or anywhere else other than,
+their own bin. To prevent dumping into other bins, bins should have a lock
+on them. However, bins would then need to be unlocked when collecting.
+There might be ways to automate this, such as using RFID cards, but they add
+complexity, costs, and would still take longer than the traditional
+collection procedure. Using a master RFID card with the truck would also
+be a security concern. Another option is to use Bluetooth technology,
+where the truck has the ability to quickly unlock a bin when it comes in range.
+If this solution was developed and worked, it would be quick, secure for bins.
+There would still be an attack vector by hacking the technology and using it
+in another device, or using the truck or device on it, but if the solution
+can be fast enough to not add any noticeable lag to collection times,
+then the overall technology seems to be worth sufficient merit to trial.
+
+#### To what extent does your idea have the potential to be scaled? *
+
+Theoretically it can scale worldwide, but obviously blockchains need to be
+much more scalable.
+
+## Resources
+In this section, please elaborate on the state of your resources.
+
+#### What resources have already been dedicated to the project? *
+
+Working on it since Thursday 21 Feb 2019.
+
+#### What resources do you need from the Trust Accelerator? *
+
+I need funding, technology, expertise, and local councils to trial with.
+
+## Working with the Trust Accelerator
+#### What is the most important thing that the Trust Accelerator can do to support your work? *
+
+- [x] Connect with governments
+- [ ] Connect with technology providers
+- [ ] Connect with funders
+- [ ] Other:
+In the application I marked "Connect with funders" as the most important,
+however, connecting with governments is probably most important to show
+a market demand.
+
+#### How did you hear about the Trust Accelerator? *
+
+- [ ] Media
+- [x] Online research
+- [ ] Recommended by colleagues
+- [ ] Through a New America/The Bitfury Group blockchain event
+- [ ] Other:
+
+If applicable: Please attach any documents, videos, or other media related to
+your pilot concept.
