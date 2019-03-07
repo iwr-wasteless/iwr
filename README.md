@@ -1,5 +1,5 @@
 # iwr / WasteLess
-Incentivizing waste reduction (IWR). 
+Organization name: Incentivizing Waste Reduction (IWR), or WasteLess.
 
 The following is modified from the 
 [Blockchain Trust Accelerator Initiative Pilot Submission](
