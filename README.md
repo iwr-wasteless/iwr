@@ -47,7 +47,8 @@ We will need to understand how your idea seeks to incorporate blockchain
 technology to solve the problem(s) you described above.
 
 #### Describe your solution. How can blockchain technology address the problem? *
-Charge bin users or land owners for the amount of mass that they add to general waste bins.
+Charge rate payers for the amount of mass that they add to general waste bins, by
+having a weight machine built-in to garbage trucks. 
 
 If there are dedicated bins for recycling, garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
@@ -59,9 +60,8 @@ or can't be bothered to use them.) Note that rewarding users for
 these bins would incentivize excess consumption,
 or collecting biomass from forest to put in their own green waste bin,
 both of which would be perverse behaviours and outcomes.
-
-Have a weight machine built-in to garbage trucks, while others benefit from
-the resources collected in them, so any cost to use these bins, if any,
+Others benefit from
+the resources collected in these bins, so any cost to use these bins, if any,
 should be discounted to account for such external benefits.
 
 The truck follows a route,
