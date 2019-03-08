@@ -48,7 +48,9 @@ technology to solve the problem(s) you described above.
 
 #### Describe your solution. How can blockchain technology address the problem? *
 Charge rate payers for the amount of mass that they add to general waste bins, by
-having a weight machine built-in to garbage trucks. 
+having a weight machine built-in to garbage trucks. Scalable, distributed app frameworks 
+like [Holochain](https://holochain.org) could be used to make the data transparent
+and the app scalable.
 
 If there are dedicated bins for recycling, garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
