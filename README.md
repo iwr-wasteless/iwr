@@ -179,13 +179,4 @@ In the application I marked "Connect with funders" as the most important,
 however, connecting with governments is probably most important to show
 a market demand.
 
-#### How did you hear about the Trust Accelerator? *
-
-- [ ] Media
-- [x] Online research
-- [ ] Recommended by colleagues
-- [ ] Through a New America/The Bitfury Group blockchain event
-- [ ] Other:
-
-If applicable: Please attach any documents, videos, or other media related to
-your pilot concept.
+For more information, see the wiki, e.g.: https://github.com/jamesray1/iwr/wiki/Contact-checklist.
