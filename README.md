@@ -175,6 +175,7 @@ I need funding, technology, expertise, and local councils to trial with.
 - [ ] Connect with technology providers
 - [ ] Connect with funders
 - [ ] Other:
+
 In the application I marked "Connect with funders" as the most important,
 however, connecting with governments is probably most important to show
 a market demand.
