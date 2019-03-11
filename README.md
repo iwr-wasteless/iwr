@@ -168,6 +168,15 @@ Working on it since Thursday 21 Feb 2019.
 
 I need funding, technology, expertise, and local councils to trial with.
 
+I should be able to develop the software myself, but I will need to obtain clients
+or at least potential ones e.g. via an MoU, a partnership with a garbage truck
+manufacturer (or funding to purchase a vehicle and modify it), and
+expertise (likely from a garbage truck manufacturer) to modify a garbage truck
+as a trial with the weight machine, plus additional technologies that would
+improve security and efficiency, as mentioned above, like Bluetooth, and a
+database, Holochain or blockchain (the last if universal consensus is needed,
+which it may not be).
+
 ## Working with the Trust Accelerator
 #### What is the most important thing that the Trust Accelerator can do to support your work? *
 
