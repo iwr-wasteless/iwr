@@ -66,6 +66,20 @@ Others benefit from
 the resources collected in these bins, so any cost to use these bins, if any,
 should be discounted to account for such external benefits.
 
+However, it should be noted that this technology, if not used with all the
+above bins and collections of each of them, would add pressure on councils
+to do so, since ratepayers would be more incentivized to reduce waste,
+and thus pressure/lobby councils to invest in bins and collecting for
+recycling, garden waste and organics (which can be collected together,
+although collecting garden waste has been done more), soft recyclable
+plastics as is done with Redcycle but not kerbside recycling, e-waste,
+etc., or other technologies. While this may be an inconvenient consequence
+for potential clients of this technology, councils, it would be a good
+outcome for the environment and ratepayer's pockets. Additionally,
+given that China is not accepting some post-consumer recycled materials,
+there is an extra burden on councils from a local to federal level to
+manage waste.
+
 The truck follows a route,
 and so can log the address of the house for each new bin unloaded into the
 truck, with the additional weight measured. Coordinates of the truck via
