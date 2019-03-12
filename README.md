@@ -203,4 +203,5 @@ In the application I marked "Connect with funders" as the most important,
 however, connecting with governments is probably most important to show
 a market demand.
 
-For more information, see the wiki, e.g.: https://github.com/jamesray1/iwr/wiki/Contact-checklist.
+## See also
+For more information, see the wiki, e.g.: https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP and https://github.com/jamesray1/iwr/wiki/Contact-checklist.
