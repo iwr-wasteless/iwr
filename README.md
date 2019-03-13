@@ -9,7 +9,7 @@ The following is modified from the
 https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
 on
 Feb 22 2019. The seed idea was first expressed in:
-https://twitter.com/JamesCRay01/status/936992945173020672, however the below information
+[here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), however the below information
 should be more detailed.
 
 ## The Problem / Challenge:
@@ -207,4 +207,4 @@ however, connecting with governments is probably most important to show
 a market demand.
 
 ## See also
-For more information, see the wiki, e.g.: https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP and https://github.com/jamesray1/iwr/wiki/Contact-checklist.
+For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
