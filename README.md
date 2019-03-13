@@ -1,7 +1,7 @@
 # iwr / WasteLess
-> Charge rate payers for the amount of mass that they add to general waste bins, by having a weight machine built-in to garbage trucks.
-
 Organization name: Incentivizing Waste Reduction (IWR), or WasteLess.
+
+Summary: WasteLess proposes to use a weight machine to measure the net weight of a bin, and charge the bin's rate payer on a per kg basis for this waste. The weight machine can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews (which would be better suited for rear and front loaders rather than side loaders). Bins could be locked to prevent dumping in others' bins, and unlocked efficiently e.g. with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc. 
 
 The following is modified from the 
 [Blockchain Trust Accelerator Initiative Pilot Submission](
