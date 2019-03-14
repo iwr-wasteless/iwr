@@ -55,10 +55,18 @@ having a weight machine built-in to garbage trucks. Scalable, distributed app fr
 like [Holochain](https://holochain.org) could be used to make the data transparent
 and the app scalable.
 
-If there are dedicated bins for recycling, garden waste, and food waste (which
+If there are dedicated bins for recycling (even for particular recyclable 
+materials like bins for glass, paper and gardboard, metals, soft plastics
+and hard plastics), garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
-these), then there is no charge for using these. Ideally, soft plastics that
-are recyclable in Redcycle bins would also be collected in kerbside bins,
+these), then there is no charge for using these. That way, people are
+not only incentivized to reduce waste but it is more convenient to do so.
+For instance, people in high-rise units don't have to use a worm farm
+or bokashi bin to handle organic waste, or use a compost bin in houses
+or boutique apartments.
+Ideally, soft plastics that
+are recyclable in [Redcycle](https://www.redcycle.net.au/)
+bins would also be collected in kerbside bins,
 since this would result in more soft plastics being recycled, due to convenience.
 (I recycle soft plastics in Redcycle bins, but not everyone knows about them,
 or can't be bothered to use them.) Note that rewarding users for
