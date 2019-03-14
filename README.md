@@ -60,7 +60,8 @@ materials like bins for glass, paper and gardboard, metals, soft plastics
 and hard plastics), garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
 these), then there is no charge for using these. That way, people are
-not only incentivized to reduce waste but it is more convenient to do so.
+not only incentivized to reduce waste but it is more convenient to do so
+and divert it to recycle or convert to other useful materials/products.
 For instance, people in high-rise units don't have to use a worm farm
 or bokashi bin to handle organic waste, or use a compost bin in houses
 or boutique apartments.
