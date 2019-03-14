@@ -57,10 +57,16 @@ for rear-loaders or front-loaders, but would be more labour intensive than the o
 A scale in each bin would be more expensive but scales aren't expensive,
 and would allow for bin users to verify that the amounts measured and recorded
 on their accounts are correct, like with water and electricity meters.
+
+Which leads to other interesting ideas such as waste trading and markets
+for waste (like with energy trading and markets projects like Grid+ and
+Power Ledger). Got a full bin? No worries, just ask a neighbour in person
+or via the dapp to use their bin, and pay them for it. 
+
 Scalable, distributed app frameworks
 like
 [Holochain](https://holochain.org) could be used to make the data transparent
-and the app scalable.
+and the app scalable and decentralised.
 
 If there are dedicated bins for recycling (even for particular recyclable 
 materials like bins for glass, paper and gardboard, metals, soft plastics
