@@ -2,7 +2,7 @@
 
 Organization name: Incentivizing Waste Reduction (IWR), or WasteLess.
 
-WasteLess proposes to use a weight machine to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction. The weight machine can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews (which would be better suited for rear and front loaders rather than side loaders). The latter method would be less efficient, less capital-intensive, and more labour-intensive (probably with an associated higher operational cost). Bins could be locked to prevent dumping in others' bins, and unlocked efficiently e.g. with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc. The technology works best in tandem with multiple specialized waste collection bins, such as for recycling, organics, and recyclable soft plastics such as those found in [Redcycle](https://www.redcycle.net.au/) bins. To prevent illegal dumping, the scheme would work well with other initiatives such as [CleanApp](https://cleanapp.io/), as well as re-investing some of the funds generated from the scheme into cleaning up illegally dumped waste.
+WasteLess proposes to use a weight machine to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction. The weight machine can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews (which would be better suited for rear and front loaders rather than side loaders). The latter method would be less efficient, less capital-intensive, and more labour-intensive (probably with an associated higher operational cost), but may be worth considering for developing countries. Bins could be locked to prevent dumping in others' bins, and unlocked efficiently e.g. with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc. The technology works best in tandem with multiple specialized waste collection bins, such as for recycling, organics, and recyclable soft plastics such as those found in [Redcycle](https://www.redcycle.net.au/) bins. To prevent illegal dumping, the scheme would work well with other initiatives such as [CleanApp](https://cleanapp.io/), as well as re-investing some of the funds generated from the scheme into cleaning up illegally dumped waste.
 
 Please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue if you think it has issues or can be improved.
 
@@ -197,6 +197,35 @@ bins.
 Care needs to be taken that financially disadvantaged people are
 not worse off with this scheme, and government assistance can
 be increased if needed.
+
+Who's going to pay for the waste in rental properties, including share
+houses? The ratepayer pays, but in share houses, there is a similar
+problem of who pays for utility bills like electricity, water, telecoms,
+and gas. A tenant is even incentivized to reduce the waste of a shared
+household and that
+is produced by flatmates. They may do this anyway without this scheme,
+but may get tired of doing so, particularly without an incentive.
+Landlords may also sublet rooms, and while this is less common than
+leasing a whole dwelling, in this arrangement it is common for
+landlords to roll the cost of utilities into the rent, and
+it can be expected that they will typically add a higher amount to the rent
+than what is paid in bills, e.g. to account for risk.
+
+Nevertheless, paying-by-weight seems fairer than a flat rate.
+Dealing with the problem of not further disadvantaging
+people facing financial hardships is a more systemic issue,
+and can be handled with more government assistance
+as needed.
+
+What if councils decide to still charge a flat rate, in order to
+be able to fund expenses of waste collection? This is
+analogous to flat rates and c/kWh rates in the electricity
+market. This should be less likely to occur, since they are a government,
+not a for-profit business, and worst-case can cover the cost via
+rates. Note that if people don't put their general waste bin out every week,
+which wouldn't have a problem with smelliness, etc., if they don't
+put organics in it, then the garbage truck doesn't have to stop
+to pick it up, saving time and costs.
 
 #### To what extent does your idea have the potential to be scaled? *
 
