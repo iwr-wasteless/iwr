@@ -14,6 +14,8 @@ Feb 22 2019. The seed idea was first expressed
 [here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), however the below information
 should be more detailed.
 
+It is intended to set up WasteLess as a non-profit, before receiving any funding.
+
 ## The Problem / Challenge:
 
 In this section, please be prepared to explain what specific challenges you
