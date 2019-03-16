@@ -8,7 +8,7 @@ The following is modified from the
 [Blockchain Trust Accelerator Initiative Pilot Submission](
 https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
 on
-Feb 22 2019. The seed idea was first expressed in:
+Feb 22 2019. The seed idea was first expressed 
 [here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), however the below information
 should be more detailed.
 
