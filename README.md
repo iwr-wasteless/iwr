@@ -134,6 +134,10 @@ People who waste less, pay less, and people who waste more are incentivized to
 waste less, or the funds collected can be spent on better waste management
 technology and outreach/education/raising of awareness.
 
+As described below, bins should be locked to prevent dumping in others bins,
+and should be unlocked by trucks and users with Bluetooth technology for
+efficiency.
+
 #### Who are the actors involved/who is impacted by this pilot? *
 Everyone that puts waste in bins and is involved with waste,
 or affected by it, which is really everyone and everything on this
@@ -229,9 +233,27 @@ which wouldn't have a problem with smelliness, etc., if they don't
 put organics in it, then the garbage truck doesn't have to stop
 to pick it up, saving time and costs.
 
+It would be more complicated, and not really worth the additional
+complexity, to charge when a user unlocks the bin and adds waste.
+Such a method would probably require a screen, human interface
+and computer on and in the bin. It also isn't suitable for shared households
+such as families and share housing, where people typically put waste
+into a bin inside, then take it out every night or when it gets full.
+Charging the person who puts the waste out would be unfair, and
+organizing a roster of who puts the bins out would be inconvenient.
+While more complicated, a user who takes waste out of the bin could
+receive a credit for doing so, although they could then just
+dump the waste elsewhere, rather than sort it to put recyclables in
+the recycling bin, etc. This would be a perverse outcome.
+This method could be used for public bins, but is inconvenient,
+and could also disincentivize using them and increase litter,
+which would again not be ideal. So it would probably be better
+to continue using public bins as accessible without a charge.
+
 #### To what extent does your idea have the potential to be scaled? *
 
-Theoretically it can scale worldwide, provided that there is
+Theoretically it can scale worldwide, wherever
+waste is generated and collected, provided that there is
 support from local citizens and councils, funding, tech, etc.
 
 ## Resources
@@ -239,13 +261,15 @@ In this section, please elaborate on the state of your resources.
 
 #### What resources have already been dedicated to the project? *
 
-Working on it since Thursday 21 Feb 2019.
+I, James Ray, have been working on this project since
+Thursday 21 Feb 2019. No funding has been obtained as of yet.
 
 #### What resources do you need from the Trust Accelerator? *
 
 I need funding, technology, expertise, and local councils to trial with.
 
-I should be able to develop the software myself, but I will need to obtain clients (there
+I should be able to develop the software myself, but I will need to 
+obtain clients (there
 are logs of my efforts on that
 [here](https://github.com/jamesray1/iwr/wiki/Contact-checklist)
 or at least potential ones e.g. via an MoU, a partnership with a garbage truck
