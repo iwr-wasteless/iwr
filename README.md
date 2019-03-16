@@ -187,16 +187,21 @@ in another device, or using the truck or device on it, but if the solution
 can be fast enough to not add any noticeable lag to collection times,
 then the overall technology seems to be worth sufficient merit to trial.
 
-An alternative is to use CCTVs, [neighbourhood watch](
+An alternative is to use [CleanApp](https://cleanapp.io), CCTVs, 
+[neighbourhood watch](
 https://en.wikipedia.org/wiki/Neighborhood_watch), police, etc.,
 to monitor and report on suspicious activity with dumping in bins.
 Notably, these measures would be needed for dumping that is not in
 bins.
 
+Care needs to be taken that financially disadvantaged people are
+not worse off with this scheme, and government assistance can
+be increased if needed.
+
 #### To what extent does your idea have the potential to be scaled? *
 
-Theoretically it can scale worldwide, but obviously blockchains need to be
-much more scalable, although Holochain appears to be very scalable.
+Theoretically it can scale worldwide, provided that there is
+support from local citizens and councils, funding, tech, etc.
 
 ## Resources
 In this section, please elaborate on the state of your resources.
