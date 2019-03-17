@@ -145,21 +145,35 @@ Earth.
 
 #### How many people would your solution be helping? *
 
-Again, all biota. This is due to the far-reaching impacts of e.g.
+Again, all biota. This is due to the far-reaching impacts of
 reducing greenhouse gases such as methane, as well as reducing
 resource depletion (e.g. petrochemically-derived products and associated
 greenhouse gas emissions). While other effects can be more local,
 such as leaching of chemicals into the land, water, and air (
 note that of the air, this is
-particularly due to the incineration of plastics), they can still
+particularly due to the incineration of plastics), they can also still
 have far-reaching impacts. Also, once waste enters oceans (outside of
 EEZs), due to
 oceans being a public commons, management of such waste becomes
 a global problem.
 
+Another benefit is that the data collected
+could have broader uses
+and help to understand waste trends by area, etc.
+Users should have their data anonimised and aggregated by default,
+unless they wish to opt out of doing so. Holochain and other
+blockchains provide the ability to have anonymous accounts,
+although it is possible for governments to identify accounts
+e.g. due to KYC of exchanges, and tracing transactions.
+Nevertheless, this possibility should not be a concern for
+this particular use case, since users will need to specify
+an account to debit from, and KYC would be needed to
+prevent fraud, etc. Initially, it may be simpler to trial
+with a simple centralized council-controlled database.
+
 #### What steps have you taken to validate the idea/market? *
 
-Not much as of yet.
+See e.g. [here](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
 #### How complex will the application need to be for successful functionality? *
 
@@ -250,6 +264,18 @@ and could also disincentivize using them and increase litter,
 which would again not be ideal. So it would probably be better
 to continue using public bins as accessible without a charge.
 
+Another problem is that people could put waste in the ‘free’,
+or lower-cost bins
+(e.g. recycling). There could be a fine to discourage this
+behaviour, together with transparent recycling bins,
+use of reporting such as via [CleanApp](https://cleanapp.io/)
+or even from the garbage truck crew themselves (which would
+be possible with transparent bins, since a one-person
+crew (the driver) as with a side loader can see it
+without even needing to get out of the vehicle.
+
+Another thought - might it be worth considering how particularly light but problematic items (e.g. plastic bags) are dealt with as a tax on mass alone would not necessarily discourage the use of light items.... not sure how to deal with that but just flagging.
+
 #### To what extent does your idea have the potential to be scaled? *
 
 Theoretically it can scale worldwide, wherever
@@ -296,3 +322,6 @@ a market demand.
 For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
 Again, please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal.
+
+## Acknowledgements
+Thanks a lot to Marco Morky, Adam Ray, and others for your feedback.
