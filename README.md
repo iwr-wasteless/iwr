@@ -293,6 +293,14 @@ there's no incentive to change behaviour. Again,
 I want to point out that financially disadvantaged people
 should be treated compassionately in these cases.
 
+If data is not automatically collected during collection,
+and is instead manually entered e.g. by the driver,
+that would be less efficient, and also be a potential
+source of corruption. Residents could bribe the driver
+to not enter the data, or enter a lower weight.
+Hence, automating the data entry of masses collected
+with the address and account is needed.
+
 #### To what extent does your idea have the potential to be scaled? *
 
 Theoretically it can scale worldwide, wherever
