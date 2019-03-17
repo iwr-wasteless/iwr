@@ -6,15 +6,17 @@ Summary/abstract/TL;DR: WasteLess proposes to use a weight machine to measure th
 
 Please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue if you think it has issues or can be improved.
 
+It is intended to set up WasteLess as a non-profit, before receiving any funding.
+
 The following is modified from the 
 [Blockchain Trust Accelerator Initiative Pilot Submission](
 https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
 on
-Feb 22 2019. The seed idea was first expressed 
-[here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), however the below information
+Feb 22 2019. I have decided to keep the overall structure it frames the
+proposal well. The seed idea was first expressed 
+[here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), 
+however the below information
 should be more detailed.
-
-It is intended to set up WasteLess as a non-profit, before receiving any funding.
 
 ## The Problem / Challenge:
 
