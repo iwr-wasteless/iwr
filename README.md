@@ -274,7 +274,24 @@ be possible with transparent bins, since a one-person
 crew (the driver) as with a side loader can see it
 without even needing to get out of the vehicle.
 
-Another thought - might it be worth considering how particularly light but problematic items (e.g. plastic bags) are dealt with as a tax on mass alone would not necessarily discourage the use of light items.... not sure how to deal with that but just flagging.
+Waste such as soft plastics
+(the kinds that can be put in Redcycle bins, like plastic bags,
+packaging, and low-density polyethylene) are problematic
+since they are light, and so a charge by mass would not
+incentivize proper management of this waste.
+While having dedicated kerbside bins for soft plastic recycling
+would certainly help, there are still people (I know from
+personal experience with living in boarding houses) who 
+will see a bin and put anything in it, regardless of the colour
+of the lid! Thus the above transparent bins, reporting, warnings,
+education (talk with them, give them a pamphlet, etc.) and fines
+would help to deal with this problem. Additionally,
+fines for putting soft plastics in general waste bins is
+probably extreme. They would need to be not a large amount if
+done at all, although if too small or there's no fine
+there's no incentive to change behaviour. Again,
+I want to point out that financially disadvantaged people
+should be treated compassionately in these cases.
 
 #### To what extent does your idea have the potential to be scaled? *
 
@@ -290,7 +307,7 @@ In this section, please elaborate on the state of your resources.
 I, James Ray, have been working on this project since
 Thursday 21 Feb 2019. No funding has been obtained as of yet.
 
-#### What resources do you need from the Trust Accelerator? *
+#### What resources do you need? *
 
 I need funding, technology, expertise, and local councils to trial with.
 
@@ -306,8 +323,7 @@ improve security and efficiency, as mentioned above, like Bluetooth, and a
 database, Holochain or blockchain (the last if universal consensus is needed,
 which it may not be).
 
-## Working with the Trust Accelerator
-#### What is the most important thing that the Trust Accelerator can do to support your work? *
+#### What is the most important thing that can be done to support your work? *
 
 - [x] Connect with governments
 - [ ] Connect with technology providers
@@ -316,7 +332,11 @@ which it may not be).
 
 In the application I marked "Connect with funders" as the most important,
 however, connecting with governments is probably most important to show
-a market demand.
+a market demand. However, in order to do a trial with a local council,
+they will probably want to see more public support for the idea.
+Although, if councils fund consultation with their
+communities, that would be
+much appreciated!
 
 ## See also
 For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
