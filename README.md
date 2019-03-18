@@ -73,11 +73,11 @@ of Bogense the fee for waste collection consists of a fixed
 yearly fee and a variable weight-based fee…
 The fixed fee for households covers 5 kg waste per collection…
 The variable, weight-dependent fee is paid per kg waste
-(i.e. residual andorganic waste) above the 5 kg figure." [([1, p. 16,
+(i.e. residual andorganic waste) above the 5 kg figure." [[1, p. 16
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
 The variable fee in Bogense, 2000, is 3.75 DKK per kg organic/residual waste
-(this applies to waste over the 5 kg limit). [([1, p. 16,
+(this applies to waste over the 5 kg limit). [[1, p. 16
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
 The study compared to Danish municipalities, Bogense and Oelstykke,
