@@ -94,6 +94,10 @@ and also noting that "The municipality of Bogense uses e.g. approximately 960 ho
 per year for administration compared to approximately 860 hours per year in the
 municipality of Oelstykke."
 
+TODO: finish notes on the above study and 
+assess costs in a local council area(s)
+in Australia.
+
 ## The Solution and Technology
 
 In this section, please be prepared to explain your pilot proposal in depth.
