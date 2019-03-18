@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
-Summary/abstract: Incentivizing Waste Reduction (IWR) / WasteLess proposes  use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements and considerations. Benefits include fairer pricing of waste, and when likely reducing waste substantially due to incentivization, benefits extend to less landfill (the proposal could even be extended to the public being incentivized to remove waste from landfill), reduced greenhouse emissions (particularly from methane), reuse/recycling of resources (which is particularly important for non-renewable resources), and a more sustainable society. The scale can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews. The latter method would be better suited for rear and front loaders rather than automated side loaders) and would be less efficient, less capital-intensive, and more labour-intensive, but may be worth considering for developing countries. Bins could be locked to prevent dumping in others' bins, and unlocked efficiently with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc., while the data could also be used (after being anonimised and aggregated) to get insights into trends of waste with location and demographics, which could in turn be useful e.g. for more targeted education programs to reduce waste. The technology works best in tandem with multiple specialized waste collection bins, such as for recycling, organics, and recyclable soft plastics such as those found in [Redcycle](https://www.redcycle.net.au/) bins. To prevent illegal dumping and putting wastes into the wrong bins (e.g. putting non-biodegradable plastic bags into an organics bin), bins could be made transparent, and the scheme would work better with other initiatives such as monitoring, reporting and cleanup technology like [CleanApp](https://cleanapp.io/), as well as re-investing some of the funds generated from the scheme into cleaning up illegally dumped waste. Compassionate treatment of financially disadvantaged people is needed to ensure that they are not worse off with this scheme, such as ratepayer government assistance, coupled with other assistance to help them that is beyond the scope of this proposal.
+Summary/abstract: Incentivizing Waste Reduction (IWR) / WasteLess proposes  use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements and considerations. Benefits include fairer pricing of waste, and when likely reducing waste substantially due to incentivization, benefits extend to less landfill (the proposal could even be extended to the public being incentivized to remove waste from landfill), reduced greenhouse emissions (particularly from methane), reuse/recycling of resources (which is particularly important for non-renewable resources), and a more sustainable society. The scale can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews. The latter method would be better suited for rear and front loaders rather than automated side loaders) and would be less efficient, less capital-intensive, and more labour-intensive, but may be worth considering for developing countries. Bins could be locked to prevent dumping in others' bins, and unlocked efficiently with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc., while the data could also be used (after being anonymised and aggregated) to get insights into trends of waste with location and demographics, which could in turn be useful e.g. for more targeted education programs to reduce waste. The technology works best in tandem with multiple specialized waste collection bins, such as for recycling, organics, and recyclable soft plastics such as those found in [Redcycle](https://www.redcycle.net.au/) bins. To prevent illegal dumping and putting wastes into the wrong bins (e.g. putting non-biodegradable plastic bags into an organics bin), bins could be made transparent, and the scheme would work better with other initiatives such as monitoring, reporting and cleanup technology like [CleanApp](https://cleanapp.io/), as well as re-investing some of the funds generated from the scheme into cleaning up illegally dumped waste. Compassionate treatment of financially disadvantaged people is needed to ensure that they are not worse off with this scheme, such as ratepayer government assistance, coupled with other assistance to help them that is beyond the scope of this proposal.
 
 Please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue or message me via https://about.me/james.ray if you think it has issues or can be improved, tear it apart!
 
@@ -73,7 +73,7 @@ of Bogense the fee for waste collection consists of a fixed
 yearly fee and a variable weight-based fee…
 The fixed fee for households covers 5 kg waste per collection…
 The variable, weight-dependent fee is paid per kg waste
-(i.e. residual andorganic waste) above the 5 kg figure." [[1, p. 16
+(i.e. residual and organic waste) above the 5 kg figure." [[1, p. 16
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
 The variable fee in Bogense, 2000, is 3.75 DKK per kg organic/residual waste
@@ -115,7 +115,7 @@ like
 and the app scalable and decentralised.
 
 If there are dedicated bins for recycling (even for particular recyclable 
-materials like bins for glass, paper and gardboard, metals, soft plastics
+materials like bins for glass, paper and cardboard, metals, soft plastics
 and hard plastics), garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
 these), then there is no charge for using these. That way, people are
@@ -146,7 +146,7 @@ although collecting garden waste has been done more), soft recyclable
 plastics as is done with Redcycle but not kerbside recycling, e-waste,
 etc., or other technologies. While this may be an inconvenient consequence
 for potential clients of this technology, councils, it would be a good
-outcome for the environment and ratepayer's pockets. Additionally,
+outcome for the environment and ratepayers' pockets. Additionally,
 given that China is not accepting some post-consumer recycled materials,
 there is an extra burden on councils from a local to federal level to
 manage waste.
@@ -202,7 +202,7 @@ a global problem.
 Another benefit is that the data collected
 could have broader uses
 and help to understand waste trends by area, etc.
-Users should have their data anonimised and aggregated by default,
+Users should have their data anonymised and aggregated by default,
 unless they wish to opt out of doing so. Holochain and other
 blockchains provide the ability to have anonymous accounts,
 although it is possible for governments to identify accounts
@@ -346,7 +346,7 @@ with the address and account is needed.
 It would be an extra inconvenience to grab a Bluetooth chip
 when you want to unlock your bin, but not too much, e.g.
 if it's attached to a keyring, which you could grab on a
-keyrack by the front door on your way out, then it could
+key-rack by the front door on your way out, then it could
 automatically unlock and open as you walk up to it.
 A bin user could also leave it unlocked, then if someone dumps
 a lot of stuff in it you may want to lock it thereafter.
@@ -417,4 +417,4 @@ For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/D
 Again, please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal.
 
 ## Acknowledgements
-Thanks a lot to Marco Morky, Adam Ray, and others for your feedback.
+Thanks a lot to Sofia Max, Adam Ray, Marco Morky, Dean Cooling, and others for your feedback.
