@@ -80,7 +80,7 @@ The variable fee in Bogense, 2000, is 3.75 DKK per kg organic/residual waste
 (this applies to waste over the 5 kg limit). [[1, p. 16
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
-The study compared to Danish municipalities, Bogense and Oelstykke,
+The study compared two Danish municipalities, Bogense and Oelstykke,
 with and without the weight-based scheme, respectively,
 found that Bogense was cheaper, even with a four-person household,
 but noting that the fee in Oelstykke is above average for Danish municipalities,
