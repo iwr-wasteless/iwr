@@ -82,13 +82,11 @@ The variable fee in Bogense, 2000, is 3.75 DKK per kg organic/residual waste
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
 The study compared to Danish municipalities, Bogense and Oelstykke,
 with and without the weight-based scheme, respectively,
-finding that Bogense was cheaper, even with a four-person household,
+found that Bogense was cheaper, even with a four-person household,
 but noting that the fee in Oelstykke is above average for Danish municipalities,
 and also noting that "The municipality of Bogense uses e.g. approximately 960 hours
 per year for administration compared to approximately 860 hours per year in the
 municipality of Oelstykke."
-
-
 
 ## The Solution and Technology
 
