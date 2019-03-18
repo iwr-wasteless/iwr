@@ -304,6 +304,29 @@ to not enter the data, or enter a lower weight.
 Hence, automating the data entry of masses collected
 with the address and account is needed.
 
+It would be an extra inconvenience to grab a Bluetooth chip
+when you want to unlock your bin, but not too much, e.g.
+if it's attached to a keyring, which you could grab on a
+keyrack by the front door on your way out, then it could
+automatically unlock and open as you walk up to it.
+A bin user could also leave it unlocked, then if someone dumps
+a lot of stuff in it you may want to lock it thereafter.
+
+One person gave feedback that he lived in an apartment
+of four units and two bins, so each bin was shared
+between two units. While this is probably an edge case,
+you would probably want to have four bins for each unit, 
+unless you were happy to split the cost with the person
+you share with. As mentioned, having a scale in the bin
+and charging when you put stuff in would be more inconvenient,
+but maybe not too much with tapping a credit/debit card.
+However, using a card would pose a [security/fraud risk](
+https://www.fool.com/investing/general/2014/01/14/why-you-should-never-use-your-debit-card.aspx),
+and is [particularly
+vulnerable](
+http://fossmotorsnews.com/2019-03/Why_You_Shouldnt_Use_a_Debit_Card_at_the_Gas_Pump.html)
+for debit card theft since bins are usually unattended.
+
 #### To what extent does your idea have the potential to be scaled? *
 
 Theoretically it can scale worldwide, wherever
