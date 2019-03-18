@@ -8,7 +8,6 @@ Summary/abstract: Incentivizing Waste Reduction (IWR) / WasteLess proposes  use 
 
 Please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue or message me via https://about.me/james.ray if you think it has issues or can be improve, tear it apart!
 
-
 The following is modified from the 
 [Blockchain Trust Accelerator Initiative Pilot Submission](
 https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
@@ -48,6 +47,48 @@ I don't think it is being addressed well because councils generally charge a
 flat rate for collection. Some councils provide options of different bin
 sizes, but still charge a flat rate per week in proportion to the bin's
 capacity.
+
+The problem has been addressed in rural municipalities in Denmark,
+in Sweden, and in Germany [[1](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+
+##### Denmark
+In Denmark, residents may request an electronic lock 
+for their bin, but few have been
+requested [[1, p. 16](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+However, if this scheme was implemented in metropolitan areas,
+more locks may be requested.
+
+Denmark has a fixed and variable portions for their scheme.
+"However, the fee varies from 594–1,066 DKK [127–229 AUD] 
+per household
+per year [this appears to be referring to the fixed fee,
+since the fixed fee in the Bogense municipality is 1,063 DKK
+per household per year] between the municipalities, depending on the service
+level in general, the quantity of waste effectively covered 
+by the fixed element of the overall fee, and the fee for the
+waste exceeding the fixed waste quantity. In the municipality
+of Bogense the fee for waste collection consists of a fixed
+yearly fee and a variable weight-based fee…
+The fixed fee for households covers 5 kg waste per collection…
+The variable, weight-dependent fee is paid per kg waste
+(i.e. residual andorganic waste) above the 5 kg figure." [([1, p. 16,
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+The variable fee in Bogense, 2000, is 3.75 DKK per kg organic/residual waste
+(this applies to waste over the 5 kg limit). [([1, p. 16,
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+The study compared to Danish municipalities, Bogense and Oelstykke,
+with and without the weight-based scheme, respectively,
+finding that Bogense was cheaper, even with a four-person household,
+but noting that the fee in Oelstykke is above average for Danish municipalities,
+and also noting that "The municipality of Bogense uses e.g. approximately 960 hours
+per year for administration compared to approximately 860 hours per year in the
+municipality of Oelstykke."
+
+
 
 ## The Solution and Technology
 
