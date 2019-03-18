@@ -98,6 +98,36 @@ and also noting that "The municipality of Bogense uses e.g. approximately 960 ho
 per year for administration compared to approximately 860 hours per year in the
 municipality of Oelstykke."
 
+The study found that the weight-based scheme reduced waste:
+"On average, the amount of waste collected in municipalities
+with weight-based schemes is 359 kg less per household compared
+to municipalities withoutweight-based schemes. Taking composting
+in private gardens into account,the difference is estimated as
+279 kg per household." [[1, p. 18
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+
+Furthermore: "A significant increase in the amount of paper and cardboard
+collected has been registered compared to municipalities without
+this scheme. However, the amount of glass collected is almost similar."
+[[1, p. 18
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+The finding on glass may be because glass has to be "taken to
+central containers… or to the municipal recycling station",
+in Bogense, an inconvenience. [[1, p. 15
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+This may be because glass tends to reduce the economic
+viability of waste collection [2](
+https://www.waste360.com/glass/focusing-economics-glass-recycling).
+
+##### Sweden
+
+##### Germany
+
+##### Australia
+
 TODO: finish notes on the above study and 
 assess costs in a local council area(s)
 in Australia.
