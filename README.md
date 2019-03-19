@@ -1,6 +1,6 @@
 # iwr / WasteLess
 
-> In one sentence: use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements, as implemented successfully in Sweden, Germany, and Denmark.
+> In one sentence: use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with  multiple waste collection streams and some other improvements, as implemented successfully in Sweden, Germany, and Denmark.
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
