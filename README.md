@@ -1,6 +1,6 @@
 # iwr / WasteLess
 
-> In one sentence: use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements.
+> Use a scale to measure the net weight of a general waste bin, and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements, as implemented succesfully in Sweden, Germany, and Denmark.
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
@@ -12,7 +12,9 @@ and trial it with a local council.
 If you encounter jargon which you are not familiar with,
 feel free to just skip over it.
 
-Summary/abstract: Weight-based schemes have been implemented in Denmark, Sweden and Germany.
+Summary/abstract: Weight-based schemes have been implemented in Denmark, Sweden and Germany,
+and have had a dramatic impact on the amounts of waste, particularly in Sweden where
+there are 11 fractions of waste.
 Incentivizing Waste Reduction (IWR) / WasteLess proposes to extend such schemes to more local councils,
 with an initial focus on councils in the Greater Sydney metropolitan region, Australia.
 The scheme involves using a scale to measure the net weight of a general waste bin,
@@ -62,17 +64,11 @@ flat rate for collection. Some councils provide options of different bin
 sizes, but still charge a flat rate per week in proportion to the bin's
 capacity.
 
-The problem has been addressed in rural municipalities in Denmark, in
-cities in Germany, and
-in Sweden [[1](
+The problem has been addressed in rural municipalities in Denmark,
+in Sweden, and in Germany [[1](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
 
 ##### Denmark
-
-A weight-based kerbside collection scheme as used in
-Danish municipalities would work best for single-unit dwellings, while refer
-to the German projects in cities below for multiple-unit dwellings.
-
 In Denmark, residents may request an electronic lock
 for their bin, but few have been
 requested [[1, p. 16](
@@ -137,109 +133,22 @@ economic benefits for sorting/recycling,
 and disadvantages including dumping, burning of waste (which
 may have health impacts), no solidarity to households with
 high amounts of waste e.g. families with babies, and
-heavy administration [[1, p. 19–21
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
-As noted elsewhere in this proposal,
+heavy administration. As noted elsewhere in this proposal,
 potential resolutions for dumping including monitoring
 with CleanApp and funding from fines,
-the scheme and/or tax, although the study
-notes that the dumping "was especially a problem in the beginning when the
-scheme was introduced, and in some of the municipalities, the dumping of waste
-at lay-bys has fallen back to the initial level" [[1, p. 21
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]. Burning of waste is
+the scheme and/or tax. Burning of waste is
 difficult to negate, because it can be
 done privately in one's own home,
 but education about the impacts on
 air quality, the environment, and
 health would help to reduce this.
-Administration can be reduced through the use of
-IT, as discussed elsewhere in this proposal,
-or if necessary funded through the scheme
-(which is cheaper than the traditional one). The study also noted that
-families with babies can use reusuable diapers, and this alternative can be
-promoted [[1, p. 21
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
 
 The study noted that the scheme should only be implemented
 in municipalities where the environmental consciousness/
-duty/stewardship is relatively high, otherwise it would be more economical to
-first concentrate on "information campaigns where the citizens are given
-instructions on sorting and recycling of waste (with weight-based schemes
-introduced subsequently)" [[1, p. 22
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
-At any rate, it may be best practice to have at least an information campaign,
-before implementing a scheme in a municipality, regardless of how well environmentally-
-dutiful citizens may be.
-
-##### Germany: Weight and volume-based systems at apartment blocks
-
-The study notes various problems for a weight-based system for multiple-unit
-dwellings, including where tenants reside [[1, p. 23
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
-It examines the results of an Identify, Press, Weight (IPW) Centre [[1, p. 23–26
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
-and a
-simple mechanical lock gate system, using a chip card [[1, p. 26–29
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
-(a tap and pay
-card would be more efficient, but note the fraud concerns outlined below—CTRL+F
-"debit card", which should nevertheless be manageable by not using debit cards.)
-
+duty/stewardship is relatively high, otherwise
 ##### Sweden
-Since the year 2000, the Swedish munipality of Bjuv, consisting
-of single- and multiple-unit residences, has had 11 fractions for waste
-with a weight-based scheme: "kerbside collection of residual waste, organic
-waste, newspapers, 6 fractions ofpackaging waste (cardboard, hard and soft
-plastics, coloured and uncoloured glass, metals), and an option for kerbside
-collection of garden waste" [[1, p. 43
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
-Variables fees apply for residual and organic waste (3.65 SEK/kg and 1.2
-SEK/kg, or ~0.56 AUD/kg and ~0.18 AUD/kg, respectively,
-ignoring inflation and forex fluctations), plus a fixed fee for residual
-waste (560 SEK/annum, ~86 AUD/a).
 
-"An on-vehicle weighing system is used. Containers are tagged with an
-intelligent chip (to avoid switching, voluntary or involuntary, between
-neighbours) and weighed both before and after emptying. The difference in
-weight is the basis for the charge to the household… This change led to the
-cost for the waste collection system almost doubling."  [[1, p. 44
-](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
-in this proposal, to measure the weight of the bin after emptying it,
-and deduct the weight of a bin to obtain the net weight.
-
-Collection intervals are every week or fortnight for residual waste and
-compostable waste; 12 times/annum for newspaper, cardboard, and hard
-plastics; and 6 times/a for coloured and uncoloured glass, and soft plastics.
-140 L bins are provided for residual waste, with a 240 L bin available at no
-extra fixed cost, and a 140 L container for compostable waste.
-
-Dramatic improvements resulted in Bjuv from this scheme: in the first two years,
-the total waste was reduced by 30%, residual waste reduced by more than 70%,
-and recycled fractions increased by 130%. [[1, p. 44–45](
-http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
-There was no observable increase in litter. 62 tonnes of dumped waste was collected
-in 2001, compared to total waste in the municipality of 3 kilotonnes (p. 46).
-The implementation for apartment blocks was no more difficult than for detached
-houses, but this may be different for urban areas.
-
-As noted on this page, it had been difficult to balance the budget, since
-residual waste (which provides most of the
-revenue) was reduced more than expected, but this can be offset by a higher
-fixed fee, which was subsequently planned, while also reducing the variable
-fee, which was also also planned.
-
-The study noted that if replicating the scheme in Bjuv, costs would rise
-considerably if there are not as many alternative collection fractions
-as in Bjuv.
+##### Germany
 
 ##### Australia
 
@@ -576,4 +485,4 @@ For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/D
 Again, please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal.
 
 ## Acknowledgements
-Thanks a lot to Sofia Max, Adam Ray, Violet/Marco Morky, Dean Cooling, and others for your feedback.
+Thanks a lot to Sofia Max, Adam Ray, Marco Morky, Dean Cooling, and others for your feedback.
