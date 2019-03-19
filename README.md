@@ -5,7 +5,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
 This document is intended for the general public,
-in order to garner support for the proposal,
+in order to garner support for the proposal via
+[this petition](
+https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/),
 and trial it with a local council.
 If you encounter jargon which you are not familiar with,
 feel free to just skip over it.
@@ -16,15 +18,17 @@ with an initial focus on councils in the Greater Sydney metropolitan region, Aus
 The scheme involves using a scale to measure the net weight of a general waste bin,
 and charge the bin's rate payer on a per kg basis for this waste, in order to incentivize waste reduction, with some other improvements and considerations. Benefits include fairer pricing of waste, and when likely reducing waste substantially due to incentivization, benefits extend to less landfill (the proposal could even be extended to the public being incentivized to remove waste from landfill), reduced greenhouse emissions (particularly from methane), reuse/recycling of resources (which is particularly important for non-renewable resources), and a more sustainable society. The scale can be mounted in a garbage truck, or a portable one could be used e.g. with garbage loader crews. The latter method would be better suited for rear and front loaders rather than automated side loaders) and would be less efficient, less capital-intensive, and more labour-intensive, but may be worth considering for developing countries. Bins could be locked to prevent dumping in others' bins, and unlocked efficiently with Bluetooth technology. Cryptographic database systems like [Holochain](https://holochain.org/) could be used for transparency, auditability, scalability, security, etc., while the data could also be used (after being anonymised and aggregated) to get insights into trends of waste with location and demographics, which could in turn be useful e.g. for more targeted education programs to reduce waste. The technology works best in tandem with multiple specialized waste collection bins, such as for recycling, organics, and recyclable soft plastics such as those found in [Redcycle](https://www.redcycle.net.au/) bins. To prevent illegal dumping and putting wastes into the wrong bins (e.g. putting non-biodegradable plastic bags into an organics bin), bins could be made transparent, and the scheme would work better with other initiatives such as monitoring, reporting and cleanup technology like [CleanApp](https://cleanapp.io/), as well as re-investing some of the funds generated from the scheme into cleaning up illegally dumped waste. Compassionate treatment of financially disadvantaged people is needed to ensure that they are not worse off with this scheme, such as ratepayer government assistance, coupled with other assistance to help them that is beyond the scope of this proposal.
 
-Please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue or message me via https://about.me/james.ray if you think it has issues or can be improved, tear it apart!
+Please sign [this petition](
+https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/)
+if you support this proposal. The petition is needed to show public support exists for the proposal, in order for councils to commit to trialing it, or investing in a full community consultation. Post an issue or message me via https://about.me/james.ray if you think it has issues or can be improved, tear it apart!
 
-The following is modified from the 
+The following is modified from the
 [Blockchain Trust Accelerator Initiative Pilot Submission](
 https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
 on
 Feb 22 2019. I have decided to keep the overall structure, as it frames the
-proposal well. The seed idea was first expressed 
-[here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672), 
+proposal well. The seed idea was first expressed
+[here on Twitter](https://twitter.com/JamesCRay01/status/936992945173020672),
 however the below information
 should be more detailed.
 
@@ -58,12 +62,18 @@ flat rate for collection. Some councils provide options of different bin
 sizes, but still charge a flat rate per week in proportion to the bin's
 capacity.
 
-The problem has been addressed in rural municipalities in Denmark,
-in Sweden, and in Germany [[1](
+The problem has been addressed in rural municipalities in Denmark, in
+cities in Germany, and
+in Sweden [[1](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
 
 ##### Denmark
-In Denmark, residents may request an electronic lock 
+
+A weight-based kerbside collection scheme as used in
+Danish municipalities would work best for single-unit dwellings, while refer
+to the German projects in cities below for multiple-unit dwellings.
+
+In Denmark, residents may request an electronic lock
 for their bin, but few have been
 requested [[1, p. 16](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
@@ -71,12 +81,12 @@ However, if this scheme was implemented in metropolitan areas,
 more locks may be requested.
 
 Denmark has a fixed and variable portions for their scheme.
-"However, the fee varies from 594–1,066 DKK [127–229 AUD] 
+"However, the fee varies from 594–1,066 DKK [127–229 AUD]
 per household
 per year [this appears to be referring to the fixed fee,
 since the fixed fee in the Bogense municipality is 1,063 DKK
 per household per year] between the municipalities, depending on the service
-level in general, the quantity of waste effectively covered 
+level in general, the quantity of waste effectively covered
 by the fixed element of the overall fee, and the fee for the
 waste exceeding the fixed waste quantity. In the municipality
 of Bogense the fee for waste collection consists of a fixed
@@ -122,13 +132,118 @@ This may be because glass tends to reduce the economic
 viability of waste collection [2](
 https://www.waste360.com/glass/focusing-economics-glass-recycling).
 
-##### Sweden
+The study also noted a higher degree of home composting was likely,
+economic benefits for sorting/recycling,
+and disadvantages including dumping, burning of waste (which
+may have health impacts), no solidarity to households with
+high amounts of waste e.g. families with babies, and
+heavy administration [[1, p. 19–21
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+As noted elsewhere in this proposal,
+potential resolutions for dumping including monitoring
+with CleanApp and funding from fines,
+the scheme and/or tax, although the study
+notes that the dumping "was especially a problem in the beginning when the
+scheme was introduced, and in some of the municipalities, the dumping of waste
+at lay-bys has fallen back to the initial level" [[1, p. 21
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]. Burning of waste is
+difficult to negate, because it can be
+done privately in one's own home,
+but education about the impacts on
+air quality, the environment, and
+health would help to reduce this.
+Administration can be reduced through the use of
+IT, as discussed elsewhere in this proposal,
+or if necessary funded through the scheme
+(which is cheaper than the traditional one). The study also noted that
+families with babies can use reusuable diapers, and this alternative can be
+promoted [[1, p. 21
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
 
-##### Germany
+The study noted that the scheme should only be implemented
+in municipalities where the environmental consciousness/
+duty/stewardship is relatively high, otherwise it would be more economical to
+first concentrate on "information campaigns where the citizens are given
+instructions on sorting and recycling of waste (with weight-based schemes
+introduced subsequently)" [[1, p. 22
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+At any rate, it may be best practice to have at least an information campaign,
+before implementing a scheme in a municipality, regardless of how well environmentally-
+dutiful citizens may be.
+
+##### Germany: Weight and volume-based systems at apartment blocks
+
+The study notes various problems for a weight-based system for multiple-unit
+dwellings, including where tenants reside [[1, p. 23
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+It examines the results of an Identify, Press, Weight (IPW) Centre [[1, p. 23–26
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+and a
+simple mechanical lock gate system, using a chip card [[1, p. 26–29
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+(a tap and pay
+card would be more efficient, but note the fraud concerns outlined below—CTRL+F
+"debit card", which should nevertheless be manageable by not using debit cards.)
+
+##### Sweden
+Since the year 2000, the Swedish munipality of Bjuv, consisting
+of single- and multiple-unit residences, has had 11 fractions for waste
+with a weight-based scheme: "kerbside collection of residual waste, organic
+waste, newspapers, 6 fractions ofpackaging waste (cardboard, hard and soft
+plastics, coloured and uncoloured glass, metals), and an option for kerbside
+collection of garden waste" [[1, p. 43
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+Variables fees apply for residual and organic waste (3.65 SEK/kg and 1.2
+SEK/kg, or ~0.56 AUD/kg and ~0.18 AUD/kg, respectively,
+ignoring inflation and forex fluctations), plus a fixed fee for residual
+waste (560 SEK/annum, ~86 AUD/a).
+
+"An on-vehicle weighing system is used. Containers are tagged with an
+intelligent chip (to avoid switching, voluntary or involuntary, between
+neighbours) and weighed both before and after emptying. The difference in
+weight is the basis for the charge to the household… This change led to the
+cost for the waste collection system almost doubling."  [[1, p. 44
+](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
+in this proposal, to measure the weight of the bin after emptying it,
+and deduct the weight of a bin to obtain the net weight.
+
+Collection intervals are every week or fortnight for residual waste and
+compostable waste; 12 times/annum for newspaper, cardboard, and hard
+plastics; and 6 times/a for coloured and uncoloured glass, and soft plastics.
+140 L bins are provided for residual waste, with a 240 L bin available at no
+extra fixed cost, and a 140 L container for compostable waste.
+
+Dramatic improvements resulted in Bjuv from this scheme: in the first two years,
+the total waste was reduced by 30%, residual waste reduced by more than 70%,
+and recycled fractions increased by 130%. [[1, p. 44–45](
+http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
+There was no observable increase in litter. 62 tonnes of dumped waste was collected
+in 2001, compared to total waste in the municipality of 3 kilotonnes (p. 46).
+The implementation for apartment blocks was no more difficult than for detached
+houses, but this may be different for urban areas.
+
+As noted on this page, it had been difficult to balance the budget, since
+residual waste (which provides most of the
+revenue) was reduced more than expected, but this can be offset by a higher
+fixed fee, which was subsequently planned, while also reducing the variable
+fee, which was also also planned.
+
+The study noted that if replicating the scheme in Bjuv, costs would rise
+considerably if there are not as many alternative collection fractions
+as in Bjuv.
 
 ##### Australia
 
-TODO: finish notes on the above study and 
+TODO: finish notes on the above study and
 assess costs in a local council area(s)
 in Australia.
 
@@ -141,7 +256,7 @@ technology to solve the problem(s) you described above.
 
 #### Describe your solution. How can blockchain technology address the problem? *
 Charge rate payers for the amount of mass that they add to general waste bins, e.g. by
-having a weight machine built-in to garbage trucks, and/or into each general waste bin, or 
+having a weight machine built-in to garbage trucks, and/or into each general waste bin, or
 measured by a portable scale used by garbage collection staff (this would work
 for rear-loaders or front-loaders, but would be more labour intensive than the other two options).
 A scale in each bin would be more expensive but scales aren't expensive,
@@ -151,14 +266,14 @@ on their accounts are correct, like with water and electricity meters.
 Which leads to other interesting ideas such as waste trading and markets
 for waste (like with energy trading and markets projects like Grid+ and
 Power Ledger). Got a full bin? No worries, just ask a neighbour in person
-or via the dapp to use their bin, and pay them for it. 
+or via the dapp to use their bin, and pay them for it.
 
 Scalable, distributed app frameworks
 like
 [Holochain](https://holochain.org) could be used to make the data transparent
 and the app scalable and decentralised.
 
-If there are dedicated bins for recycling (even for particular recyclable 
+If there are dedicated bins for recycling (even for particular recyclable
 materials like bins for glass, paper and cardboard, metals, soft plastics
 and hard plastics), garden waste, and food waste (which
 there should be, and this program should ideally only be implemented with
@@ -199,16 +314,16 @@ The truck follows a route,
 and so can log the address of the house for each new bin unloaded into the
 truck, with the additional weight measured. Coordinates of the truck via
 GPS and mobile data
-and the timestamp at the time of loading a bin 
+and the timestamp at the time of loading a bin
 can also be
 used as an extra verification. The accuracy of the weight machine
 should probably be no more than 1 gram. Using Distributed Ledger Technology (DLT)
 to store this data has
 benefits including transparency, auditability, censorship-resistance, and
-better scalability to different councils worldwide. Making the DLT 
+better scalability to different councils worldwide. Making the DLT
 Free and Open Source Software (FOSS) has
 benefits including auditability and better ability to improve it or adapt it
-for other projects. 
+for other projects.
 
 The project can be adapted for stationary public bins, etc., by having an
 interface that involves needing to pay to use the bin, but this would be more
@@ -263,7 +378,7 @@ See e.g. [here](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
 #### How complex will the application need to be for successful functionality? *
 
-An app for bin users would show the amounts debited with 
+An app for bin users would show the amounts debited with
 each collection and the mass measured of the collected waste,
 as well as charts per month, year, and total.
 Councils could still send an invoice as per usual.
@@ -293,7 +408,7 @@ in another device, or using the truck or device on it, but if the solution
 can be fast enough to not add any noticeable lag to collection times,
 then the overall technology seems to be worth sufficient merit to trial.
 
-An alternative is to use [CleanApp](https://cleanapp.io), CCTVs, 
+An alternative is to use [CleanApp](https://cleanapp.io), CCTVs,
 [neighbourhood watch](
 https://en.wikipedia.org/wiki/Neighborhood_watch), police, etc.,
 to monitor and report on suspicious activity with dumping in bins.
@@ -367,7 +482,7 @@ since they are light, and so a charge by mass would not
 incentivize proper management of this waste.
 While having dedicated kerbside bins for soft plastic recycling
 would certainly help, there are still people (I know from
-personal experience with living in boarding houses) who 
+personal experience with living in boarding houses) who
 will see a bin and put anything in it, regardless of the colour
 of the lid! Thus the above transparent bins, reporting, warnings,
 education (talk with them, give them a pamphlet, etc.) and fines
@@ -398,7 +513,7 @@ a lot of stuff in it you may want to lock it thereafter.
 One person gave feedback that he lived in an apartment
 of four units and two bins, so each bin was shared
 between two units. While this is probably an edge case,
-you would probably want to have four bins for each unit, 
+you would probably want to have four bins for each unit,
 unless you were happy to split the cost with the person
 you share with. As mentioned, having a scale in the bin
 and charging when you put stuff in would be more inconvenient,
@@ -428,7 +543,7 @@ Thursday 21 Feb 2019. No funding has been obtained as of yet.
 
 I need funding, technology, expertise, and local councils to trial with.
 
-I should be able to develop the software myself, but I will need to 
+I should be able to develop the software myself, but I will need to
 obtain clients (there
 are logs of my efforts on that
 [here](https://github.com/jamesray1/iwr/wiki/Contact-checklist)
@@ -461,4 +576,4 @@ For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/D
 Again, please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal.
 
 ## Acknowledgements
-Thanks a lot to Sofia Max, Adam Ray, Marco Morky, Dean Cooling, and others for your feedback.
+Thanks a lot to Sofia Max, Adam Ray, Violet/Marco Morky, Dean Cooling, and others for your feedback.
