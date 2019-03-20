@@ -17,6 +17,15 @@ in order to garner support for the proposal via
 [this petition](
 https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/),
 and trial it with a local council.
+The above sentence gives the general gist of this proposal,
+so it is not really necessary to read the rest of it,
+that just adds more improvements, information,
+and considerations of some concerns.
+Given the scheme has already been successful in Sweden,
+it should be fairly easy to see the value of the
+proposal and sign the petition. The details below
+are more intended for councils and those who may be
+involved with implementing the scheme.
 If you encounter jargon which you are not familiar with,
 feel free to just skip over it.
 
