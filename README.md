@@ -26,8 +26,6 @@ it should be fairly easy to see the value of the
 proposal and sign the petition. The details below
 are more intended for councils and those who may be
 involved with implementing the scheme.
-If you encounter jargon which you are not familiar with,
-feel free to just skip over it.
 
 Summary/abstract: Weight-based schemes have been implemented successfully in Denmark, Sweden and Germany,
 in tandem with multiple fractions of waste collection streams.
