@@ -145,8 +145,8 @@ in Bogense, an inconvenience. [[1, p. 15
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)]
 This may be because glass tends to reduce the economic
-viability of waste collection [2](
-https://www.waste360.com/glass/focusing-economics-glass-recycling).
+viability of waste collection [[2](
+https://www.waste360.com/glass/focusing-economics-glass-recycling)].
 
 The study also noted a higher degree of home composting was likely,
 economic benefits for sorting/recycling,
@@ -586,6 +586,10 @@ Although, if councils fund consultation with their
 communities, that would be
 much appreciated!
 
+## FAQs
+### How to solve dumping?
+The scheme in Sweden has found that dumping was initially a problem, then went back to former levels, and did not observe a noticeable increase in litter. Monitoring and reporting e.g. with CleanApp or just calling council plus cleanup would help to manage dumped waste. The fixed fee component of the scheme, if needed, could be used to fund cleanup of dumped waste. Funding could also be allocated for council officers to patrol public areas to monitor for dumping, graffitti, etc., if and as needed. Note also that federal funding via taxes and a nation-wide deployment in councils could also be used to fund the scheme, rather than decreasing variable weight fees and increasing fixed fees, which would increase residual waste.
+ 
 ## See also
 For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
