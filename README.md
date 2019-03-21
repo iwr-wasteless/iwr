@@ -8,7 +8,7 @@ with 9 recyclable collection streams collected in bags monthly or
 bimonthly; and
 some other improvements like cleaning up dumped waste; optional
 electronic locks for bins; and locked gate systems for apartments;
-as demonstrated successfully in Sweden, Germany and Denmark.
+as demonstrated successfully in Sweden, Germany, Denmark and Ireland.
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
