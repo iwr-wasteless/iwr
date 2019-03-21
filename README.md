@@ -257,11 +257,35 @@ The study noted that if replicating the scheme in Bjuv, costs would rise
 considerably if there are not as many alternative collection fractions
 as in Bjuv.
 
+### Ireland
+http://www.regions4recycling.eu/upload/public/Good-Practices/GP_Limerick_Pay-per-Weight-system-SWR.pdf
+Some notes / key findings:
+"The study concluded that weight-based chargesare the single most effective PBU system in terms of waste prevention, waste recycling and diversion of waste from landfill. These charges prompted the highest per household recycling levels (between 27% and 32%), highest  diversion rates  from landfill (between 28% and 35%) and the lowest total kerbside waste figures (between 800kg and 947kg per annum). The study projected that if the estimated 80% of those households across Ireland currently on pay per lift / tags and differential bin systems switched to ‘per kg’ based PBU system, it could lead to an annual diversion from landfill of approximately 446,000 tonnes of domestic waste per annum."—p. 6
+
+Annual charges and per-lift charges are important to account for the cost of transport and labour. P. 10 highlights the
+importance of a federally-led scheme, even if it is initially in a trial area, e.g. for preparing national legislation, strategy, coordination, education; as well as the responsibilities of the other organisations involved. It's best to read the paper directly. 
+
+The use of permits with the same conditions for private waste collectors ensure that "there was no competitive advantage for operators operatingin areas with less onerous requirements" (p. 11). However, waste collection in Ireland is financed mainly by the private sector, while in Australia it is financed by councils, with some subcontracting to private waste collectors (p. 11). 
+
+> A regulatory impact assessment undertaken by the DoECLG recognised the cost to industry in moving over to a pay by weight system, but, on the basis of the findings of the STRIVE research Study, asserted that "A  transition  to  weight  based  charging  on  a  national  basis  could  be achieved relatively cheaply, in view of the potential benefits." The  exact  investment  costs,  running  costs  and  savings  are  not  available  as  this  information  is commercially sensitive.
+
+From the lessons learnt on p. 15, householders being able to switch between collectors that have
+lower weight-based fees was a countermeasure against
+actually reducing their waste, but this isn't really applicable in an Australian residential context; as is the case
+for
+other problems with multiple collectors being available to households.
+
 ##### Australia
 
-TODO: finish notes on the above study and
-assess costs in a local council area(s)
-in Australia.
+> The key barrier is weighing technology on trucks that can meet the exacting standards of the National Measurement Institute (NMI), which is the regulator of weighing systems. All weight based transactions in Australia must be made on scales which have been “Approved for Trade” by NMI…
+> Tony Khoury summarised the practical limitations of some weighing systems and commented that the systems needed to work consistently and robustly. It is no good if the systems do not work on wet days, sloping ground etc. It would do nothing to prevent overflowing bins or litter…
+>     - All systems that use scales to charge clients must be “Approved for Trade” by NMI;
+>     - Any private agreements based on weights, need to comply with the National Measurement legislation administered by NMI;
+>     - There is one accredited WBC system available and others in the process of being submitted to the NMI; and
+>     - The NMI would be working more closely with the waste sector on WBC weighing systems (but also on the accuracy of existing bin volumes and liquid waste volume measurements).
+—https://blog.mraconsulting.com.au/2015/08/03/weight-based-charging-the-sleeping-giant-stirs/
+
+https://www.veolia.com/anz/our-services/our-services/recycling-waste-services/service-delivery/pricing-management/weight-based-pricing
 
 ## The Solution and Technology
 
