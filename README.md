@@ -279,10 +279,11 @@ other problems with multiple collectors being available to households.
 
 > The key barrier is weighing technology on trucks that can meet the exacting standards of the National Measurement Institute (NMI), which is the regulator of weighing systems. All weight based transactions in Australia must be made on scales which have been “Approved for Trade” by NMI…
 > Tony Khoury summarised the practical limitations of some weighing systems and commented that the systems needed to work consistently and robustly. It is no good if the systems do not work on wet days, sloping ground etc. It would do nothing to prevent overflowing bins or litter…
->     - All systems that use scales to charge clients must be “Approved for Trade” by NMI;
->     - Any private agreements based on weights, need to comply with the National Measurement legislation administered by NMI;
->     - There is one accredited WBC system available and others in the process of being submitted to the NMI; and
->     - The NMI would be working more closely with the waste sector on WBC weighing systems (but also on the accuracy of existing bin volumes and liquid waste volume measurements).
+
+> - All systems that use scales to charge clients must be “Approved for Trade” by NMI;
+> - Any private agreements based on weights, need to comply with the National Measurement legislation administered by NMI;
+> - There is one accredited WBC system available and others in the process of being submitted to the NMI; and
+> - The NMI would be working more closely with the waste sector on WBC weighing systems (but also on the accuracy of existing bin volumes and liquid waste volume measurements).
 —https://blog.mraconsulting.com.au/2015/08/03/weight-based-charging-the-sleeping-giant-stirs/
 
 https://www.veolia.com/anz/our-services/our-services/recycling-waste-services/service-delivery/pricing-management/weight-based-pricing
