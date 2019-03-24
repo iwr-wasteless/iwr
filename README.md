@@ -650,6 +650,9 @@ considerations for policy implementers and include:
 - mechanical locked gate systems or systems like the Identify, Press, Weight (IPW) Centre may be preferable for
 high-density
 apartments;
+- Using cryptographic, scalable, public database systems such as [Holochain](https://holochain.org/) would have
+benefits such as transparency, auditability, benefits of open data and open source software, and ease of scaling
+the software to other demonstrations of a Bjuv-like weight-based residual, compost and 9 recyclable fractions scheme.
 
 ## FAQs
 ### How to solve dumping?
