@@ -212,9 +212,9 @@ card would be more efficient, but note the fraud concerns outlined below—CTRL+
 Since the year 2000, the Swedish munipality of Bjuv, consisting
 of single- and multiple-unit residences, has had 11 fractions for waste
 with a weight-based scheme: "kerbside collection of residual waste, organic
-waste, newspapers, 6 fractions ofpackaging waste (cardboard, hard and soft
+waste, newspapers, 6 fractions of packaging waste (cardboard, hard and soft
 plastics, coloured and uncoloured glass, metals), and an option for kerbside
-collection of garden waste" [[1, p. 43
+collection of garden waste" [[1, p. 43 or 54 of 143 in the PDF)
 ](
 http://ec.europa.eu/environment/waste/studies/pdf/financingmuncipalwaste_management.pdf)].
 Variables fees apply for residual and organic waste (3.65 SEK/kg and 1.2
@@ -254,13 +254,13 @@ fixed fee, which was subsequently planned, while also reducing the variable
 fee, which was also also planned.
 
 The study noted that if replicating the scheme in Bjuv, costs would rise
-considerably if there are not as many alternative collection fractions
-as in Bjuv.
+considerably, especially if there are not as many alternative collection fractions
+as in Bjuv (the cost of the equipment doubled in Bjuv).
 
 ### Ireland
-http://www.regions4recycling.eu/upload/public/Good-Practices/GP_Limerick_Pay-per-Weight-system-SWR.pdf
-Some notes / key findings:
-"The study concluded that weight-based chargesare the single most effective PBU system in terms of waste prevention, waste recycling and diversion of waste from landfill. These charges prompted the highest per household recycling levels (between 27% and 32%), highest  diversion rates  from landfill (between 28% and 35%) and the lowest total kerbside waste figures (between 800kg and 947kg per annum). The study projected that if the estimated 80% of those households across Ireland currently on pay per lift / tags and differential bin systems switched to ‘per kg’ based PBU system, it could lead to an annual diversion from landfill of approximately 446,000 tonnes of domestic waste per annum."—p. 6
+Some notes / key findings on [3](
+http://www.regions4recycling.eu/upload/public/Good-Practices/GP_Limerick_Pay-per-Weight-system-SWR.pdf):
+"The study concluded that weight-based charges are the single most effective PBU system in terms of waste prevention, waste recycling and diversion of waste from landfill. These charges prompted the highest per household recycling levels (between 27% and 32%), highest  diversion rates  from landfill (between 28% and 35%) and the lowest total kerbside waste figures (between 800kg and 947kg per annum). The study projected that if the estimated 80% of those households across Ireland currently on pay per lift / tags and differential bin systems switched to ‘per kg’ based PBU system, it could lead to an annual diversion from landfill of approximately 446,000 tonnes of domestic waste per annum."—p. 6
 
 Annual charges and per-lift charges are important to account for the cost of transport and labour. P. 10 highlights the
 importance of a federally-led scheme, even if it is initially in a trial area, e.g. for preparing national legislation, strategy, coordination, education; as well as the responsibilities of the other organisations involved. It's best to read the paper directly. 
@@ -271,12 +271,14 @@ The use of permits with the same conditions for private waste collectors ensure 
 
 From the lessons learnt on p. 15, householders being able to switch between collectors that have
 lower weight-based fees was a countermeasure against
-actually reducing their waste, but this isn't really applicable in an Australian residential context; as is the case
+actually reducing their waste, but this isn't really applicable in an 
+Australian residential context; as is the case
 for
 other problems with multiple collectors being available to households.
 
 ##### Australia
 
+Quotes from [4](https://blog.mraconsulting.com.au/2015/08/03/weight-based-charging-the-sleeping-giant-stirs/)
 > The key barrier is weighing technology on trucks that can meet the exacting standards of the National Measurement Institute (NMI), which is the regulator of weighing systems. All weight based transactions in Australia must be made on scales which have been “Approved for Trade” by NMI…
 > Tony Khoury summarised the practical limitations of some weighing systems and commented that the systems needed to work consistently and robustly. It is no good if the systems do not work on wet days, sloping ground etc. It would do nothing to prevent overflowing bins or litter…
 
@@ -284,9 +286,8 @@ other problems with multiple collectors being available to households.
 > - Any private agreements based on weights, need to comply with the National Measurement legislation administered by NMI;
 > - There is one accredited WBC system available and others in the process of being submitted to the NMI; and
 > - The NMI would be working more closely with the waste sector on WBC weighing systems (but also on the accuracy of existing bin volumes and liquid waste volume measurements).
-—https://blog.mraconsulting.com.au/2015/08/03/weight-based-charging-the-sleeping-giant-stirs/
 
-https://www.veolia.com/anz/our-services/our-services/recycling-waste-services/service-delivery/pricing-management/weight-based-pricing
+See also [5](https://www.veolia.com/anz/our-services/our-services/recycling-waste-services/service-delivery/pricing-management/weight-based-pricing).
 
 ## The Solution and Technology
 
@@ -606,10 +607,19 @@ which it may not be).
 In the application I marked "Connect with funders" as the most important,
 however, connecting with governments is probably most important to show
 a market demand. However, in order to do a trial with a local council,
-they will probably want to see more public support for the idea.
+they will probably want to see more public support for the idea,
+hence [the petition](
+https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/)
 Although, if councils fund consultation with their
 communities, that would be
 much appreciated!
+
+## Conclusions
+
+The schme in Bjuv in Sweden was very effective (apparently the most of demonstrations studied)
+in reducing waste and increasing recycling. However, the cost of the system was high.
+While weight-based charging has been found to reduce waste most effectively compared to
+fixed fees
 
 ## FAQs
 ### How to solve dumping?
