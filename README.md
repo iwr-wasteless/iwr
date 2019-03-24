@@ -638,7 +638,10 @@ households with sufficient land (a bare patch of soil for a
 compost bin), or even those without, can compost their own waste.
 For the latter case, tumbler bins, worm farms and bokashi bins can be used.
 The scheme in Bjuv in Sweden was very effective (apparently the most of demonstrations studied)
-in reducing waste and increasing recycling. However, the cost of the system was high. Other
+in reducing waste and increasing recycling. However, the cost of the system was high. Additionally,
+the case in Bjuv is just one study, and further demonstrations would be needed,
+with other considerations or improvements, for more statistically
+reliable evidence and conclusions. Other
 considerations for policy implementers and include:
 
 - promoting reusable/washable and/or biodegradable products as for nappies and dialysis sacs (with which the non-biodegradable and/or disposable and non-washable forms) tend to produce a lot of waste and may be financially disadvantageous to users of these products);
