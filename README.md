@@ -1,14 +1,20 @@
 # iwr / WasteLess
 
-> In one sentence: Use a scale built into a garbage truck to measure
-the net weight of residual and organic waste bins, and charge
+> Summary: Use a scale built into a garbage truck to measure
+the net weight of residual and organic waste bins, which are
+collected weekly, and charge
 the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg
 AUD and 20 c/kg, respectively),
-with 9 recyclable collection streams collected in bags monthly or
-bimonthly; and
-some other improvements like cleaning up dumped waste; optional
-electronic locks for bins; and locked gate systems for apartments;
-as demonstrated successfully in Sweden, Germany, Denmark and Ireland.
+with an additional service of 9 recyclable fractions
+collected in 100 L sacks monthly or
+bimonthly; as demonstrated successfully in Bjuv, Sweden; with
+some other improvements like cleaning up dumped waste (which may not
+increase); promoting biodegradable or reusuable products 
+(particularly for products
+that are used frequently by some such as nappies and dialysis products); 
+possibly locked gate systems for apartments;
+and optional
+electronic locks for bins.
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
@@ -62,7 +68,7 @@ involved with implementing the scheme.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Summary/abstract
+## Abstract
 Weight-based schemes have been implemented successfully in Denmark, Sweden and Germany
 in tandem with multiple fractions of waste collection streams.
 Incentivizing Waste Reduction (IWR) / WasteLess proposes to extend such schemes to more local councils,
