@@ -289,6 +289,20 @@ Quotes from [4](https://blog.mraconsulting.com.au/2015/08/03/weight-based-chargi
 
 See also [5](https://www.veolia.com/anz/our-services/our-services/recycling-waste-services/service-delivery/pricing-management/weight-based-pricing).
 
+### Other remarks
+Weight-based charging for residual and compostable
+has been found to have some elasticity [6](
+https://www.sciencedirect.com/science/article/pii/S0928765516000269).
+While higher fixed fees and lower weight-based fees may
+help to recover costs of equipment and collection,
+waste would increase proportionally with lower weight-based fees.
+Therefore, subsidizing the cost of waste collection services,
+e.g. via taxes, may be desirable for public benefits.
+However, where there is insufficient for political will
+to achieve this, having a standing charge / fixed fee
+to cover the cost of transport, lift and equipment may
+be the next most preferable option.
+
 ## The Solution and Technology
 
 In this section, please be prepared to explain your pilot proposal in depth.
@@ -392,8 +406,8 @@ Again, all biota. This is due to the far-reaching impacts of
 reducing greenhouse gases such as methane, as well as reducing
 resource depletion (e.g. petrochemically-derived products and associated
 greenhouse gas emissions). While other effects can be more local,
-such as leaching of chemicals into the land, water, and air (
-note that of the air, this is
+such as leaching of chemicals into the land, water, and air
+(note that of the air, this is
 particularly due to the incineration of plastics), they can also still
 have far-reaching impacts. Also, once waste enters oceans (outside of
 EEZs), due to
@@ -616,10 +630,23 @@ much appreciated!
 
 ## Conclusions
 
-The schme in Bjuv in Sweden was very effective (apparently the most of demonstrations studied)
-in reducing waste and increasing recycling. However, the cost of the system was high.
-While weight-based charging has been found to reduce waste most effectively compared to
-fixed fees
+Weight-based pricing for both residual and compostable waste, coupled with
+multiple fractions for sorting recycling, has been found to
+most effectively reduce waste and increase recycling. 
+Pricing for compostable waste is necessary because
+households with sufficient land (a bare patch of soil for a
+compost bin), or even those without, can compost their own waste.
+For the latter case, tumbler bins, worm farms and bokashi bins can be used.
+The scheme in Bjuv in Sweden was very effective (apparently the most of demonstrations studied)
+in reducing waste and increasing recycling. However, the cost of the system was high. Other
+considerations for policy implementers and include:
+
+- promoting reusable/washable and/or biodegradable products as for nappies and dialysis sacs (with which the non-biodegradable and/or disposable and non-washable forms) tend to produce a lot of waste and may be financially disadvantageous to users of these products);
+- cleaning up any dumped waste, although it may not actually increase after a year, as was found in Bjuv in Sweden, coupled with monitoring e.g. via [CleanApp](https://cleanapp.io/) and fines;
+- possibly using transparent bins to make incorrectly sorted waste more visible, and education such as stickers, flyers, and talking to people to reduce incorrectly sorted waste. Fines could be used as a last resort.
+- mechanical locked gate systems or systems like the Identify, Press, Weight (IPW) Centre may be preferable for
+high-density
+apartments;
 
 ## FAQs
 ### How to solve dumping?
