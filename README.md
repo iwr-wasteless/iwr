@@ -1,5 +1,7 @@
 # iwr / WasteLess
-
+<!-- 
+Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, which are collected weekly, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with an additional service of 9 recyclable fractions collected in 100 L sacks monthly or bimonthly; as demonstrated successfully in Bjuv, Sweden; with some other improvements like cleaning up dumped waste (which may not increase); promoting biodegradable or reusuable products  (particularly for products that are used frequently by some such as nappies and dialysis products); possibly locked gate systems for apartments; and optional electronic locks for bins.
+-->
 > Summary: Use a scale built into a garbage truck to measure
 the net weight of residual and organic waste bins, which are
 collected weekly, and charge
