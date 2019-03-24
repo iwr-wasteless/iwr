@@ -1,38 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
-
-- [iwr / WasteLess](#iwr--wasteless)
-  - [The Problem / Challenge:](#the-problem--challenge)
-      - [What type of social or governance challenge are you addressing? *](#what-type-of-social-or-governance-challenge-are-you-addressing-)
-      - [Are there specific aspects of the problem that you want to see addressed? *](#are-there-specific-aspects-of-the-problem-that-you-want-to-see-addressed-)
-      - [Is this problem currently being addressed? If so, in what ways and to what degree of success? *](#is-this-problem-currently-being-addressed-if-so-in-what-ways-and-to-what-degree-of-success-)
-        - [Denmark](#denmark)
-        - [Germany: Weight and volume-based systems at apartment blocks](#germany-weight-and-volume-based-systems-at-apartment-blocks)
-        - [Sweden](#sweden)
-    - [Ireland](#ireland)
-        - [Australia](#australia)
-    - [Other remarks](#other-remarks)
-  - [The Solution and Technology](#the-solution-and-technology)
-      - [Describe your solution. How can blockchain technology address the problem? *](#describe-your-solution-how-can-blockchain-technology-address-the-problem-)
-      - [Who are the actors involved/who is impacted by this pilot? *](#who-are-the-actors-involvedwho-is-impacted-by-this-pilot-)
-      - [How many people would your solution be helping? *](#how-many-people-would-your-solution-be-helping-)
-      - [What steps have you taken to validate the idea/market? *](#what-steps-have-you-taken-to-validate-the-ideamarket-)
-      - [How complex will the application need to be for successful functionality? *](#how-complex-will-the-application-need-to-be-for-successful-functionality-)
-      - [What challenges do you anticipate encountering were this pilot to be implemented? How can they be mitigated? *](#what-challenges-do-you-anticipate-encountering-were-this-pilot-to-be-implemented-how-can-they-be-mitigated-)
-      - [To what extent does your idea have the potential to be scaled? *](#to-what-extent-does-your-idea-have-the-potential-to-be-scaled-)
-  - [Resources](#resources)
-      - [What resources have already been dedicated to the project? *](#what-resources-have-already-been-dedicated-to-the-project-)
-      - [What resources do you need? *](#what-resources-do-you-need-)
-      - [What is the most important thing that can be done to support your work? *](#what-is-the-most-important-thing-that-can-be-done-to-support-your-work-)
-  - [Conclusions](#conclusions)
-  - [FAQs](#faqs)
-    - [How to solve dumping?](#how-to-solve-dumping)
-  - [See also](#see-also)
-  - [Acknowledgements](#acknowledgements)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # iwr / WasteLess
 
 > In one sentence: Use a scale built into a garbage truck to measure
@@ -62,7 +27,43 @@ proposal and sign the petition. The details below
 are more intended for councils and those who may be
 involved with implementing the scheme.
 
-Summary/abstract: Weight-based schemes have been implemented successfully in Denmark, Sweden and Germany,
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Summary/abstract](#summaryabstract)
+- [The Problem / Challenge:](#the-problem--challenge)
+    - [What type of social or governance challenge are you addressing? *](#what-type-of-social-or-governance-challenge-are-you-addressing-)
+    - [Are there specific aspects of the problem that you want to see addressed? *](#are-there-specific-aspects-of-the-problem-that-you-want-to-see-addressed-)
+    - [Is this problem currently being addressed? If so, in what ways and to what degree of success? *](#is-this-problem-currently-being-addressed-if-so-in-what-ways-and-to-what-degree-of-success-)
+      - [Denmark](#denmark)
+      - [Germany: Weight and volume-based systems at apartment blocks](#germany-weight-and-volume-based-systems-at-apartment-blocks)
+      - [Sweden](#sweden)
+  - [Ireland](#ireland)
+      - [Australia](#australia)
+  - [Other remarks](#other-remarks)
+- [The Solution and Technology](#the-solution-and-technology)
+    - [Describe your solution. How can blockchain technology address the problem? *](#describe-your-solution-how-can-blockchain-technology-address-the-problem-)
+    - [Who are the actors involved/who is impacted by this pilot? *](#who-are-the-actors-involvedwho-is-impacted-by-this-pilot-)
+    - [How many people would your solution be helping? *](#how-many-people-would-your-solution-be-helping-)
+    - [What steps have you taken to validate the idea/market? *](#what-steps-have-you-taken-to-validate-the-ideamarket-)
+    - [How complex will the application need to be for successful functionality? *](#how-complex-will-the-application-need-to-be-for-successful-functionality-)
+    - [What challenges do you anticipate encountering were this pilot to be implemented? How can they be mitigated? *](#what-challenges-do-you-anticipate-encountering-were-this-pilot-to-be-implemented-how-can-they-be-mitigated-)
+    - [To what extent does your idea have the potential to be scaled? *](#to-what-extent-does-your-idea-have-the-potential-to-be-scaled-)
+- [Resources](#resources)
+    - [What resources have already been dedicated to the project? *](#what-resources-have-already-been-dedicated-to-the-project-)
+    - [What resources do you need? *](#what-resources-do-you-need-)
+    - [What is the most important thing that can be done to support your work? *](#what-is-the-most-important-thing-that-can-be-done-to-support-your-work-)
+- [Conclusions](#conclusions)
+- [FAQs](#faqs)
+  - [How to solve dumping?](#how-to-solve-dumping)
+- [See also](#see-also)
+- [Acknowledgements](#acknowledgements)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Summary/abstract
+Weight-based schemes have been implemented successfully in Denmark, Sweden and Germany
 in tandem with multiple fractions of waste collection streams.
 Incentivizing Waste Reduction (IWR) / WasteLess proposes to extend such schemes to more local councils,
 with an initial focus on councils in the Greater Sydney metropolitan region, Australia.
