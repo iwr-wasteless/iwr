@@ -298,15 +298,15 @@ http://www.regions4recycling.eu/upload/public/Good-Practices/GP_Limerick_Pay-per
 "The study concluded that weight-based charges are the single most effective PBU system in terms of waste prevention, waste recycling and diversion of waste from landfill. These charges prompted the highest per household recycling levels (between 27% and 32%), highest  diversion rates  from landfill (between 28% and 35%) and the lowest total kerbside waste figures (between 800kg and 947kg per annum). The study projected that if the estimated 80% of those households across Ireland currently on pay per lift / tags and differential bin systems switched to ‘per kg’ based PBU system, it could lead to an annual diversion from landfill of approximately 446,000 tonnes of domestic waste per annum."—p. 6
 
 Annual charges and per-lift charges are important to account for the cost of transport and labour. P. 10 highlights the
-importance of a federally-led scheme, even if it is initially in a trial area, e.g. for preparing national legislation, strategy, coordination, education; as well as the responsibilities of the other organisations involved. It's best to read the paper directly. 
+importance of a federally-led scheme, even if it is initially in a trial area, e.g. for preparing national legislation, strategy, coordination, education; as well as the responsibilities of the other organisations involved. It's best to read the paper directly.
 
-The use of permits with the same conditions for private waste collectors ensure that "there was no competitive advantage for operators operatingin areas with less onerous requirements" (p. 11). However, waste collection in Ireland is financed mainly by the private sector, while in Australia it is financed by councils, with some subcontracting to private waste collectors (p. 11). 
+The use of permits with the same conditions for private waste collectors ensure that "there was no competitive advantage for operators operatingin areas with less onerous requirements" (p. 11). However, waste collection in Ireland is financed mainly by the private sector, while in Australia it is financed by councils, with some subcontracting to private waste collectors (p. 11).
 
 > A regulatory impact assessment undertaken by the DoECLG recognised the cost to industry in moving over to a pay by weight system, but, on the basis of the findings of the STRIVE research Study, asserted that "A  transition  to  weight  based  charging  on  a  national  basis  could  be achieved relatively cheaply, in view of the potential benefits." The  exact  investment  costs,  running  costs  and  savings  are  not  available  as  this  information  is commercially sensitive.
 
 From the lessons learnt on p. 15, householders being able to switch between collectors that have
 lower weight-based fees was a countermeasure against
-actually reducing their waste, but this isn't really applicable in an 
+actually reducing their waste, but this isn't really applicable in an
 Australian residential context; as is the case
 for
 other problems with multiple collectors being available to households.
@@ -667,7 +667,7 @@ much appreciated!
 
 Weight-based pricing for both residual and compostable waste, coupled with
 multiple fractions for sorting recycling, has been found to
-most effectively reduce waste and increase recycling. 
+most effectively reduce waste and increase recycling.
 Pricing for compostable waste is necessary because
 households with sufficient land (a bare patch of soil for a
 compost bin), or even those without, can compost their own waste.
@@ -692,7 +692,7 @@ the software to other demonstrations of a Bjuv-like weight-based residual, compo
 ## FAQs
 ### How to solve dumping?
 The scheme in Sweden has found that dumping was initially a problem, then went back to former levels, and did not observe a noticeable increase in litter. Monitoring and reporting e.g. with CleanApp or just calling council plus cleanup would help to manage dumped waste. The fixed fee component of the scheme, if needed, could be used to fund cleanup of dumped waste. Funding could also be allocated for council officers to patrol public areas to monitor for dumping, graffitti, etc., if and as needed. Note also that federal funding via taxes and a nation-wide deployment in councils could also be used to fund the scheme, rather than decreasing variable weight fees and increasing fixed fees, which would increase residual waste.
- 
+
 ## See also
 For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
