@@ -1,22 +1,17 @@
 # iwr / WasteLess
 <!-- 
-Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, which are collected weekly, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with an additional service of 9 recyclable fractions collected in 100 L sacks monthly or bimonthly; as demonstrated successfully in Bjuv, Sweden; with some other improvements like cleaning up dumped waste (which may not increase); promoting biodegradable or reusuable products  (particularly for products that are used frequently by some such as nappies and dialysis products); possibly locked gate systems for apartments; and optional electronic locks for bins.
+Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins (140 L default, 240 L optional at no extra fixed cost), which are collected weekly or fortnightly, and charge the bins' rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with an additional service of 9 recyclable fractions collected in 100 L sacks monthly or bimonthly; as demonstrated successfully in Bjuv, Sweden; with some other improvements like cleaning up dumped waste (which may not increase); promoting biodegradable or reusuable products  (particularly for products that are used frequently by some such as nappies and dialysis products); possibly locked gate systems for apartments; and optional electronic locks for bins.
 -->
-> Summary: Use a scale built into a garbage truck to measure
-the net weight of residual and organic waste bins, which are
-collected weekly, and charge
-the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg
-AUD and 20 c/kg, respectively),
-with an additional service of 9 recyclable fractions
-collected in 100 L sacks monthly or
-bimonthly; as demonstrated successfully in Bjuv, Sweden; with
-some other improvements like cleaning up dumped waste (which may not
-increase); promoting biodegradable or reusuable products 
-(particularly for products
-that are used frequently by some such as nappies and dialysis products); 
-possibly locked gate systems for apartments;
-and optional
-electronic locks for bins.
+## Summary
+Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins (140 L default, 240 L optional at no extra fixed cost), which are collected weekly or fortnightly. Charge the rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with an optional free service of 9 recyclable fractions collected in 100 L sacks monthly or bimonthly. Such a scheme has been demonstrated successfully in Bjuv, Sweden. Other improvements include:
+- promoting reusable/washable and/or biodegradable products such as for nappies and dialysis sacs (with which the non-biodegradable and/or disposable and non-washable forms tend to produce a lot of waste and may be financially disadvantageous to users of these products);
+- cleaning up any dumped waste, although it may not actually increase after a year, as was found in Bjuv in Sweden, coupled with monitoring e.g. via [CleanApp](https://cleanapp.io/) and fines;
+- possibly using transparent bins to make incorrectly sorted waste more visible, and education such as stickers, flyers, and talking to people to reduce incorrectly sorted waste. Fines could be used as a last resort.
+- mechanical locked gate systems or systems like the Identify, Press, Weight (IPW) Centre may be preferable for
+high-density apartments;
+- Using cryptographic, scalable, public database systems such as [Holochain](https://holochain.org/) would have
+benefits such as transparency, auditability, benefits of open data and open source software, and ease of scaling
+the software to other demonstrations of a Bjuv-like weight-based residual, compost and 9 recyclable fractions scheme.
 
 [![Twitter](https://img.shields.io/twitter/follow/IWRWasteLess.svg?style=social)](https://twitter.com/IWRWasteLess)
 
