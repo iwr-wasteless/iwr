@@ -32,7 +32,7 @@ involved with implementing the scheme.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
 
-- [Summary/abstract](#summaryabstract)
+- [Abstract](#abstract)
 - [The Problem / Challenge:](#the-problem--challenge)
     - [What type of social or governance challenge are you addressing? *](#what-type-of-social-or-governance-challenge-are-you-addressing-)
     - [Are there specific aspects of the problem that you want to see addressed? *](#are-there-specific-aspects-of-the-problem-that-you-want-to-see-addressed-)
