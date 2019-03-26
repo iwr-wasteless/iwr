@@ -695,6 +695,10 @@ the software to other demonstrations of a Bjuv-like weight-based residual, compo
 ### How to solve dumping?
 The scheme in Sweden has found that dumping was initially a problem, then went back to former levels, and did not observe a noticeable increase in litter. Monitoring and reporting e.g. with CleanApp or just calling council plus cleanup would help to manage dumped waste. The fixed fee component of the scheme, if needed, could be used to fund cleanup of dumped waste. Funding could also be allocated for council officers to patrol public areas to monitor for dumping, graffitti, etc., if and as needed. Note also that federal funding via taxes and a nation-wide deployment in councils could also be used to fund the scheme, rather than decreasing variable weight fees and increasing fixed fees, which would increase residual waste.
 
+### Why not start a business doing this rather than waiting for political will with councils?
+
+I'm not sure what councils will do if people refuse to put council-provided bins out, not pay rates for waste collection, and put out a bin provided by a private waste collector and pay them instead. I'd have to ask councils to see what they think, but I can't imagine they would tolerate that. I'm not sure how viable such a business would be without support from government funding, as was the case in the above Irish study. Some form of deregulation or subsidies to private waste collectors may be needed for this to work. Introducing private enterprises, if successful, would result in increased costs due to profit-seeking (and funding growth and offseting risk, etc.), which would lead todisadvantaging poorer people, particularly without adequate support, which tends to be what occurs. Generally I am more in favour of a publicly funded scheme, and do not wish to pursue this as a business.
+
 ## See also
 For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
 
