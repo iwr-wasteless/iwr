@@ -695,6 +695,11 @@ benefits such as transparency, auditability, benefits of open data and open sour
 the software to other demonstrations of a Bjuv-like weight-based residual, compost and 9 recyclable fractions scheme.
 
 ## Q&A
+### Wouldn't it be simpler and better to have smaller bins with a lower fixed cost?
+This has pros and cons. It is a simpler scheme. It doesn't allow for highly variable amounts of waste over time, e.g. creating 500 L of waste in an atypical week vs 10 L normally. In such a case residents would have to store the waste and slowly fill the bin(s) up week by week. It isn't as cost-reflective as per kg pricing, however, the more bin sizes that are offered, the more cost reflective it can be, but you won't get as cost-reflective as per kg pricing. 
+
+It also doesn't account for the benefits of having multiple additional fractions of recycling waste, collected less often, compared to one mixed recycling bin per week which doesn't allow for soft plastics recycling. It also doesn't provide organic waste. However, that is somewhat orthogonal as you can still have bins for residual waste and organic waste and recyclable fractions collected in the same way in each scheme, but just charge differently and provide more bin sizes.
+
 ### How to solve dumping?
 The scheme in Sweden has found that dumping was initially a problem, then went back to former levels, and did not observe a noticeable increase in litter. Monitoring and reporting e.g. with CleanApp or just calling council plus cleanup would help to manage dumped waste. The fixed fee component of the scheme, if needed, could be used to fund cleanup of dumped waste. Funding could also be allocated for council officers to patrol public areas to monitor for dumping, graffitti, etc., if and as needed. Note also that federal funding via taxes and a nation-wide deployment in councils could also be used to fund the scheme, rather than decreasing variable weight fees and increasing fixed fees, which would increase residual waste.
 
