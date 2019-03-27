@@ -58,7 +58,7 @@ involved with implementing the scheme.
 - [Conclusions](#conclusions)
 - [Q&A](#qa)
   - [Wouldn't it be simpler and better to have smaller bins with a lower fixed cost?](#wouldnt-it-be-simpler-and-better-to-have-smaller-bins-with-a-lower-fixed-cost)
-  - [How to solve dumping?](#how-to-solve-dumping)
+  - [Won't dumping increase with this scheme?](#wont-dumping-increase-with-this-scheme)
   - [Why not start a business doing this rather than waiting for political will with councils?](#why-not-start-a-business-doing-this-rather-than-waiting-for-political-will-with-councils)
   - [Won't this scheme increase costs for people receiving government assistance / welfare payments?](#wont-this-scheme-increase-costs-for-people-receiving-government-assistance--welfare-payments)
   - [Don't we need more organic waste treatment infrastructure for this scheme to work?](#dont-we-need-more-organic-waste-treatment-infrastructure-for-this-scheme-to-work)
