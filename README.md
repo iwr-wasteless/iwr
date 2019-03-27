@@ -77,7 +77,7 @@ if you support this proposal. The petition is needed to show public support exis
 
 The following is modified from the
 [Blockchain Trust Accelerator Initiative Pilot Submission](
-https://github.com/jamesray1/iwr/blob/master/intro-and-join-trust-accelerator-application.md)
+intro-and-join-trust-accelerator-application.md)
 on
 Feb 22 2019. I have decided to keep the overall structure, as it frames the
 proposal well. The seed idea was first expressed
@@ -467,7 +467,7 @@ with a simple centralized council-controlled database.
 
 #### What steps have you taken to validate the idea/market? *
 
-See e.g. [here](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
+See e.g. [here](wiki/Contact-checklist).
 
 #### How complex will the application need to be for successful functionality? *
 
@@ -639,7 +639,7 @@ I need funding, technology, expertise, and local councils to trial with.
 I should be able to develop the software myself, but I will need to
 obtain clients (there
 are logs of my efforts on that
-[here](https://github.com/jamesray1/iwr/wiki/Contact-checklist)
+[here](wiki/Contact-checklist)
 or at least potential ones e.g. via an MoU, a partnership with a garbage truck
 manufacturer (or funding to purchase a vehicle and modify it), and
 expertise (likely from a garbage truck manufacturer) to modify a garbage truck
@@ -707,7 +707,7 @@ See more at https://www.facebook.com/groups/WarOnWasteAU/permalink/6527699018439
 Yes. See more at: https://www.facebook.com/groups/1513152818777012/permalink/2177468449012109/?comment_id=2177647292327558&comment_tracking=%7B%22tn%22%3A%22R%22%7D
 
 ## See also
-For more information, see the [wiki](https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP), e.g.: [Design ideas](https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP) and [Contact checklist](https://github.com/jamesray1/iwr/wiki/Contact-checklist).
+For more information, see the [wiki](wiki), e.g.: [Design ideas](wiki/Design-ideas-and-MVP) and [Contact checklist](wiki/Contact-checklist).
 
 Again, please sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/) if you support this proposal.
 
