@@ -57,6 +57,7 @@ involved with implementing the scheme.
     - [What is the most important thing that can be done to support your work? *](#what-is-the-most-important-thing-that-can-be-done-to-support-your-work-)
 - [Conclusions](#conclusions)
 - [Q&A](#qa)
+  - [Wouldn't it be simpler and better to have smaller bins with a lower fixed cost?](#wouldnt-it-be-simpler-and-better-to-have-smaller-bins-with-a-lower-fixed-cost)
   - [How to solve dumping?](#how-to-solve-dumping)
   - [Why not start a business doing this rather than waiting for political will with councils?](#why-not-start-a-business-doing-this-rather-than-waiting-for-political-will-with-councils)
   - [Won't this scheme increase costs for people receiving government assistance / welfare payments?](#wont-this-scheme-increase-costs-for-people-receiving-government-assistance--welfare-payments)
