@@ -703,7 +703,7 @@ I'm not sure what councils will do if people refuse to put council-provided bins
 It would not financially disadvantage poor Australians if landlords must pay for the rates and it is made illegal to mark up the rent with Centrelink recipients due to the cost of waste. This depends on the government implementing this scheme if and only if these conditions hold. It would be enforceable for private landlords since if they threatened to evict Centrelink recipient tenants if they reported them to the government, then Centrelink recipient tenants can take the matter up with NCAT, or analogous authorities in other states, NCAT would resolve the case in the tenants favour: they continue to reside where they are without a markup in the rent due to waste collection. The government would be incentivized to implement the scheme because it has been shown to reduce waste, which will deliver public benefits and be less costly in the long-run."
 See more at https://www.facebook.com/groups/WarOnWasteAU/permalink/652769901843930/?comment_id=652775288510058&comment_tracking=%7B%22tn%22%3A%22R%22%7D
 
-### Don't we need more organic waste infrastructure for this scheme to work?
+### Don't we need more organic waste treatment infrastructure for this scheme to work?
 Yes. See more at: https://www.facebook.com/groups/1513152818777012/permalink/2177468449012109/?comment_id=2177647292327558&comment_tracking=%7B%22tn%22%3A%22R%22%7D
 
 ## See also
