@@ -700,7 +700,7 @@ This has pros and cons. It is a simpler scheme. It doesn't allow for highly vari
 
 It also doesn't account for the benefits of having multiple additional fractions of recycling waste, collected less often, compared to one mixed recycling bin per week which doesn't allow for soft plastics recycling. It also doesn't provide organic waste. However, that is somewhat orthogonal as you can still have bins for residual waste and organic waste and recyclable fractions collected in the same way in each scheme, but just charge differently and provide more bin sizes.
 
-### How to solve dumping?
+### Won't dumping increase with this scheme?
 The scheme in Sweden has found that dumping was initially a problem, then went back to former levels, and did not observe a noticeable increase in litter. Monitoring and reporting e.g. with CleanApp or just calling council plus cleanup would help to manage dumped waste. The fixed fee component of the scheme, if needed, could be used to fund cleanup of dumped waste. Funding could also be allocated for council officers to patrol public areas to monitor for dumping, graffitti, etc., if and as needed. Note also that federal funding via taxes and a nation-wide deployment in councils could also be used to fund the scheme, rather than decreasing variable weight fees and increasing fixed fees, which would increase residual waste.
 
 ### Why not start a business doing this rather than waiting for political will with councils?
