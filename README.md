@@ -56,8 +56,11 @@ involved with implementing the scheme.
     - [What resources do you need? *](#what-resources-do-you-need-)
     - [What is the most important thing that can be done to support your work? *](#what-is-the-most-important-thing-that-can-be-done-to-support-your-work-)
 - [Conclusions](#conclusions)
-- [FAQs](#faqs)
+- [Q&A](#qa)
   - [How to solve dumping?](#how-to-solve-dumping)
+  - [Why not start a business doing this rather than waiting for political will with councils?](#why-not-start-a-business-doing-this-rather-than-waiting-for-political-will-with-councils)
+  - [Won't this scheme increase costs for people receiving government assistance / welfare payments?](#wont-this-scheme-increase-costs-for-people-receiving-government-assistance--welfare-payments)
+  - [Don't we need more organic waste treatment infrastructure for this scheme to work?](#dont-we-need-more-organic-waste-treatment-infrastructure-for-this-scheme-to-work)
 - [See also](#see-also)
 - [Acknowledgements](#acknowledgements)
 
